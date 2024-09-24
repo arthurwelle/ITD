@@ -1,0 +1,917 @@
+"V1","valor","variavel","data","polarity","tipo_dado","freq","escala","category","subcategory","descricao_variable","remove","norm"
+1,-0.208609987190476,"TxCompostaSubutilizacao",2012-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.5192595827634
+2,-0.178847570412899,"TxCompostaSubutilizacao",2013-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.680839608655758
+3,-0.155763763753349,"TxCompostaSubutilizacao",2014-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.806161490464576
+4,-0.120059458864941,"TxCompostaSubutilizacao",2015-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,1
+5,-0.194276504866416,"TxCompostaSubutilizacao",2016-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.597075993384803
+6,-0.241089371683032,"TxCompostaSubutilizacao",2017-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.342929151451487
+7,-0.247077761604348,"TxCompostaSubutilizacao",2018-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.310418209689904
+8,-0.250120473453881,"TxCompostaSubutilizacao",2019-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.293899340839141
+9,-0.244292966880274,"TxCompostaSubutilizacao",2020-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.325536847634648
+10,-0.296140677396353,"TxCompostaSubutilizacao",2021-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.0440558620596058
+11,-0.23198017819934,"TxCompostaSubutilizacao",2022-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.392382921619182
+12,-0.188616352722308,"TxCompostaSubutilizacao",2023-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.627804933740503
+13,-0.178876106335221,"TxCompostaSubutilizacao",2024-01-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.68068468726271
+14,-0.189056803844144,"TxCompostaSubutilizacao",2012-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.625413726594846
+15,-0.168329527288523,"TxCompostaSubutilizacao",2013-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.737942017142089
+16,-0.149167586987171,"TxCompostaSubutilizacao",2014-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.841972104254266
+17,-0.122784289458198,"TxCompostaSubutilizacao",2015-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.985206907049885
+18,-0.209222539242288,"TxCompostaSubutilizacao",2016-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.515934040448342
+19,-0.237822625453612,"TxCompostaSubutilizacao",2017-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.360664301936011
+20,-0.246128455634794,"TxCompostaSubutilizacao",2018-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.315571987499234
+21,-0.24834224951991,"TxCompostaSubutilizacao",2019-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.303553310523146
+22,-0.293281248276833,"TxCompostaSubutilizacao",2020-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.0595796897992099
+23,-0.285124167515505,"TxCompostaSubutilizacao",2021-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.103864444309282
+24,-0.212442352958145,"TxCompostaSubutilizacao",2022-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.498453686367396
+25,-0.178319230417635,"TxCompostaSubutilizacao",2023-04-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.68370796409721
+26,-0.170334827227709,"TxCompostaSubutilizacao",2012-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.727055252854192
+27,-0.159845354318292,"TxCompostaSubutilizacao",2013-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.784002553772904
+28,-0.148365190174918,"TxCompostaSubutilizacao",2014-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.846328312913957
+29,-0.129167448924819,"TxCompostaSubutilizacao",2015-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.950552763214741
+30,-0.212955383264289,"TxCompostaSubutilizacao",2016-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.49566844715884
+31,-0.2393695879906,"TxCompostaSubutilizacao",2017-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.352265849328851
+32,-0.241798599607651,"TxCompostaSubutilizacao",2018-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.339078756260803
+33,-0.240964864677494,"TxCompostaSubutilizacao",2019-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.343605099420664
+34,-0.304255597052245,"TxCompostaSubutilizacao",2020-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0
+35,-0.2651448058953,"TxCompostaSubutilizacao",2021-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.212332308059436
+36,-0.201077887458424,"TxCompostaSubutilizacao",2022-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.560151318096053
+37,-0.175734893803942,"TxCompostaSubutilizacao",2023-07-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.697738315868565
+38,-0.166752969980607,"TxCompostaSubutilizacao",2012-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.746501139626583
+39,-0.149400976376033,"TxCompostaSubutilizacao",2013-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.840705034319148
+40,-0.149388560547354,"TxCompostaSubutilizacao",2014-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.840772439796816
+41,-0.13562963456842,"TxCompostaSubutilizacao",2015-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.915469586622679
+42,-0.222894928527231,"TxCompostaSubutilizacao",2016-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.441706700942235
+43,-0.235722743190172,"TxCompostaSubutilizacao",2017-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.372064553233922
+44,-0.238516887127921,"TxCompostaSubutilizacao",2018-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.356895158450478
+45,-0.230261024065838,"TxCompostaSubutilizacao",2019-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.401716201623966
+46,-0.288220938835214,"TxCompostaSubutilizacao",2020-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.0870520868397674
+47,-0.242830533464376,"TxCompostaSubutilizacao",2021-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.333476392026241
+48,-0.184866072283987,"TxCompostaSubutilizacao",2022-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.648165189255239
+49,-0.172625650275698,"TxCompostaSubutilizacao",2023-10-01,"neg","prop","trim","percent","ocupacao_suficiente","ocupacao_suficiente","Taxa composta de subutilização",0,0.71461838490173
+50,0.570277624954367,"PrevidenciaTodosTrab",2012-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.40619534235294
+51,0.579200370642056,"PrevidenciaTodosTrab",2013-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.548401646772312
+52,0.599050641167333,"PrevidenciaTodosTrab",2014-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.86476543342816
+53,0.599906630270877,"PrevidenciaTodosTrab",2015-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.878407764084988
+54,0.586600363969631,"PrevidenciaTodosTrab",2016-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.66633907776896
+55,0.561819124847739,"PrevidenciaTodosTrab",2017-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.271387954224189
+56,0.555269537527213,"PrevidenciaTodosTrab",2018-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.167003873255811
+57,0.556200037140143,"PrevidenciaTodosTrab",2019-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.181833715531939
+58,0.557319791595665,"PrevidenciaTodosTrab",2020-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.199679807816808
+59,0.550551302804714,"PrevidenciaTodosTrab",2021-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.0918069835590112
+60,0.561738983741962,"PrevidenciaTodosTrab",2022-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.270110704946497
+61,0.589375146108966,"PrevidenciaTodosTrab",2023-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.710562182115433
+62,0.599981247545796,"PrevidenciaTodosTrab",2024-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.879596977280509
+63,0.572196706060992,"PrevidenciaTodosTrab",2012-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.436780707172956
+64,0.583648173617295,"PrevidenciaTodosTrab",2013-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.619288529132629
+65,0.604320242634585,"PrevidenciaTodosTrab",2014-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.948749733401511
+66,0.597793966167596,"PrevidenciaTodosTrab",2015-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.844737169278999
+67,0.581287039226561,"PrevidenciaTodosTrab",2016-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.581657937866642
+68,0.560219328254563,"PrevidenciaTodosTrab",2017-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.245891187948294
+69,0.558631180203051,"PrevidenciaTodosTrab",2018-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.220580070363945
+70,0.553730963413976,"PrevidenciaTodosTrab",2019-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.142482840562856
+71,0.574513157658058,"PrevidenciaTodosTrab",2020-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.4736991661894
+72,0.544790866444346,"PrevidenciaTodosTrab",2021-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0
+73,0.573896521404937,"PrevidenciaTodosTrab",2022-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.463871522793899
+74,0.593511933477257,"PrevidenciaTodosTrab",2023-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.77649225167071
+75,0.579162154176375,"PrevidenciaTodosTrab",2012-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.547792571657691
+76,0.589624057235948,"PrevidenciaTodosTrab",2013-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.714529204457648
+77,0.60538120918638,"PrevidenciaTodosTrab",2014-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.965658893174104
+78,0.591234800533335,"PrevidenciaTodosTrab",2015-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.74020043388714
+79,0.580323226619757,"PrevidenciaTodosTrab",2016-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.566297169582558
+80,0.560461988792764,"PrevidenciaTodosTrab",2017-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.249758591500274
+81,0.557212950620592,"PrevidenciaTodosTrab",2018-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.197977029237489
+82,0.551697523296356,"PrevidenciaTodosTrab",2019-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.110074878428083
+83,0.555686880374731,"PrevidenciaTodosTrab",2020-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.173655276993932
+84,0.549559002810086,"PrevidenciaTodosTrab",2021-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.0759921973877422
+85,0.580627605006551,"PrevidenciaTodosTrab",2022-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.5711482016579
+86,0.594975626396276,"PrevidenciaTodosTrab",2023-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.799819864952986
+87,0.5819122739329,"PrevidenciaTodosTrab",2012-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.59162261915369
+88,0.595995481288542,"PrevidenciaTodosTrab",2013-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.816073807444395
+89,0.607535944618767,"PrevidenciaTodosTrab",2014-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,1
+90,0.600135089297898,"PrevidenciaTodosTrab",2015-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.882048830980881
+91,0.576128103415957,"PrevidenciaTodosTrab",2016-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.499437372354507
+92,0.561432896446192,"PrevidenciaTodosTrab",2017-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.265232437125727
+93,0.560314901899219,"PrevidenciaTodosTrab",2018-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.247414393392238
+94,0.560704790205352,"PrevidenciaTodosTrab",2019-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.253628240238507
+95,0.552798116354632,"PrevidenciaTodosTrab",2020-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.127615585847661
+96,0.557612028659657,"PrevidenciaTodosTrab",2021-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.204337337498731
+97,0.595447728416437,"PrevidenciaTodosTrab",2022-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.807343993281405
+98,0.600132522393381,"PrevidenciaTodosTrab",2023-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso à previdência",0,0.882007920927188
+99,0.685609179207705,"CarteiraTrabAssalariados",2012-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.54711476263752
+100,0.695764016710169,"CarteiraTrabAssalariados",2013-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.723157673543597
+101,0.708208939803117,"CarteiraTrabAssalariados",2014-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.938901203339446
+102,0.711733355233938,"CarteiraTrabAssalariados",2015-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,1
+103,0.709910954706135,"CarteiraTrabAssalariados",2016-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.968407107088285
+104,0.696738229345901,"CarteiraTrabAssalariados",2017-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.740046494087908
+105,0.680236134175401,"CarteiraTrabAssalariados",2018-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.453968369336127
+106,0.675097407222402,"CarteiraTrabAssalariados",2019-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.36488408305996
+107,0.67413964275561,"CarteiraTrabAssalariados",2020-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.348280405782451
+108,0.684851267994332,"CarteiraTrabAssalariados",2021-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.533975714752395
+109,0.666364553800461,"CarteiraTrabAssalariados",2022-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.213492498847849
+110,0.666492270091244,"CarteiraTrabAssalariados",2023-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.215706571460445
+111,0.663512888702103,"CarteiraTrabAssalariados",2024-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.164056412379464
+112,0.686141789271245,"CarteiraTrabAssalariados",2012-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.556348019786215
+113,0.694257697586652,"CarteiraTrabAssalariados",2013-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.697044325772835
+114,0.71010557496025,"CarteiraTrabAssalariados",2014-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.971781017901468
+115,0.708577152148789,"CarteiraTrabAssalariados",2015-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.945284483539441
+116,0.699336805363311,"CarteiraTrabAssalariados",2016-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.785095061945796
+117,0.683164302665651,"CarteiraTrabAssalariados",2017-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.504730708420528
+118,0.67241043897981,"CarteiraTrabAssalariados",2018-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.318303159355046
+119,0.666973862368428,"CarteiraTrabAssalariados",2019-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.224055391057488
+120,0.699563826942247,"CarteiraTrabAssalariados",2020-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.789030677812094
+121,0.678562425526643,"CarteiraTrabAssalariados",2021-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.424953179042385
+122,0.656556204310263,"CarteiraTrabAssalariados",2022-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.0434562579902635
+123,0.658080036889456,"CarteiraTrabAssalariados",2023-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.069873216696848
+124,0.685299601952615,"CarteiraTrabAssalariados",2012-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.541747972561053
+125,0.694853330614117,"CarteiraTrabAssalariados",2013-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.707370140633122
+126,0.709511166845497,"CarteiraTrabAssalariados",2014-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.961476437964869
+127,0.702930681137047,"CarteiraTrabAssalariados",2015-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.847398013863028
+128,0.695709849197992,"CarteiraTrabAssalariados",2016-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.722218632764474
+129,0.676607494740506,"CarteiraTrabAssalariados",2017-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.391062759217551
+130,0.665233900829175,"CarteiraTrabAssalariados",2018-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.193891649475173
+131,0.659723986787835,"CarteiraTrabAssalariados",2019-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.0983725132561628
+132,0.690431811556855,"CarteiraTrabAssalariados",2020-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.630719274946867
+133,0.666822649366315,"CarteiraTrabAssalariados",2021-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.221433982585676
+134,0.654049478898345,"CarteiraTrabAssalariados",2022-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0
+135,0.659492038196768,"CarteiraTrabAssalariados",2023-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.0943514833635551
+136,0.692310182065532,"CarteiraTrabAssalariados",2012-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.663282455995052
+137,0.700523782067607,"CarteiraTrabAssalariados",2013-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.805672332054871
+138,0.706906090182174,"CarteiraTrabAssalariados",2014-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.916315175774943
+139,0.705658491606461,"CarteiraTrabAssalariados",2015-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.894686972974308
+140,0.692940168869181,"CarteiraTrabAssalariados",2016-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.67420382334533
+141,0.672092786436925,"CarteiraTrabAssalariados",2017-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.312796377164527
+142,0.665746004233874,"CarteiraTrabAssalariados",2018-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.202769405916499
+143,0.663348483724747,"CarteiraTrabAssalariados",2019-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.161206309581247
+144,0.67592989239586,"CarteiraTrabAssalariados",2020-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.379315935188184
+145,0.659104550003782,"CarteiraTrabAssalariados",2021-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.08763403964095
+146,0.659260541880771,"CarteiraTrabAssalariados",2022-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.0903382940513414
+147,0.65832954772422,"CarteiraTrabAssalariados",2023-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Carteira de trabalho entre os assalariados",0,0.0741987033079139
+148,0.707753750962214,"AcessoSeguroDesempregoAssal",2012-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.0623917306826675
+149,0.718365988675753,"AcessoSeguroDesempregoAssal",2013-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.185301329460541
+150,0.719746557595139,"AcessoSeguroDesempregoAssal",2014-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.201290904566878
+151,0.734861081553384,"AcessoSeguroDesempregoAssal",2015-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.376345414800513
+152,0.766282721394428,"AcessoSeguroDesempregoAssal",2016-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.740266884527718
+153,0.7786975499175,"AcessoSeguroDesempregoAssal",2017-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.884053862718016
+154,0.762716299594767,"AcessoSeguroDesempregoAssal",2018-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.698961037042814
+155,0.748967733548199,"AcessoSeguroDesempregoAssal",2019-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.539726879066979
+156,0.748752900442374,"AcessoSeguroDesempregoAssal",2020-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.537238709130164
+157,0.779684816732378,"AcessoSeguroDesempregoAssal",2021-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.895488262453386
+158,0.70809796015247,"AcessoSeguroDesempregoAssal",2022-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.066378318112389
+159,0.72125841291486,"AcessoSeguroDesempregoAssal",2023-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.218801022203995
+160,0.732097983707823,"AcessoSeguroDesempregoAssal",2024-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.344343564036404
+161,0.709107378242114,"AcessoSeguroDesempregoAssal",2012-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.0780692711183695
+162,0.711326764360888,"AcessoSeguroDesempregoAssal",2013-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.103773921236005
+163,0.723061523645894,"AcessoSeguroDesempregoAssal",2014-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.239684423281671
+164,0.740010269485673,"AcessoSeguroDesempregoAssal",2015-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.435982660014317
+165,0.774002374717668,"AcessoSeguroDesempregoAssal",2016-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.829674935711232
+166,0.768440051361231,"AcessoSeguroDesempregoAssal",2017-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.765252808119776
+167,0.756401224313676,"AcessoSeguroDesempregoAssal",2018-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.625820631597435
+168,0.745448239829361,"AcessoSeguroDesempregoAssal",2019-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.498964546695575
+169,0.785902077459631,"AcessoSeguroDesempregoAssal",2020-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.967495792072629
+170,0.761564977773863,"AcessoSeguroDesempregoAssal",2021-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.685626572918345
+171,0.7058727415946,"AcessoSeguroDesempregoAssal",2022-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.0406061174207341
+172,0.726088473920657,"AcessoSeguroDesempregoAssal",2023-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.274742179603605
+173,0.706535774352781,"AcessoSeguroDesempregoAssal",2012-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.0482852792039883
+174,0.703751000399614,"AcessoSeguroDesempregoAssal",2013-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.0160323784953884
+175,0.723719115189863,"AcessoSeguroDesempregoAssal",2014-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.247300565608169
+176,0.743656524977864,"AcessoSeguroDesempregoAssal",2015-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.478213131257443
+177,0.769613598457913,"AcessoSeguroDesempregoAssal",2016-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.778844682585244
+178,0.763530887903757,"AcessoSeguroDesempregoAssal",2017-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.708395496101281
+179,0.747981833107365,"AcessoSeguroDesempregoAssal",2018-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.528308304503459
+180,0.744857240073252,"AcessoSeguroDesempregoAssal",2019-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.492119662057483
+181,0.788708549733932,"AcessoSeguroDesempregoAssal",2020-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,1
+182,0.740532983172713,"AcessoSeguroDesempregoAssal",2021-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.442036664012722
+183,0.702366735757973,"AcessoSeguroDesempregoAssal",2022-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0
+184,0.723492077125631,"AcessoSeguroDesempregoAssal",2023-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.24467103938238
+185,0.708941476627679,"AcessoSeguroDesempregoAssal",2012-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.0761478195435721
+186,0.705002564634923,"AcessoSeguroDesempregoAssal",2013-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.0305278376208754
+187,0.724327795632325,"AcessoSeguroDesempregoAssal",2014-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.254350225725704
+188,0.742668353429889,"AcessoSeguroDesempregoAssal",2015-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.46676825301745
+189,0.773544570221276,"AcessoSeguroDesempregoAssal",2016-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.824372701772535
+190,0.755023638622683,"AcessoSeguroDesempregoAssal",2017-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.6098656078661
+191,0.74439929060909,"AcessoSeguroDesempregoAssal",2018-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.486815749120357
+192,0.740296970639803,"AcessoSeguroDesempregoAssal",2019-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.439303196622569
+193,0.780931226521312,"AcessoSeguroDesempregoAssal",2020-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.909924023431039
+194,0.724005198375701,"AcessoSeguroDesempregoAssal",2021-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.250613944985601
+195,0.709039168944624,"AcessoSeguroDesempregoAssal",2022-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.077279279637429
+196,0.723311133440367,"AcessoSeguroDesempregoAssal",2023-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Acesso ao seguro-desemprego entre assalariados formais do setor privado",0,0.242575372440354
+197,0.831918893089633,"PropoRendaApposentadoriaAcima65anos",2012-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.75327393760498
+198,0.824397419724545,"PropoRendaApposentadoriaAcima65anos",2012-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.625027716476263
+199,0.835395988278295,"PropoRendaApposentadoriaAcima65anos",2012-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.812560768363509
+200,0.834188550157182,"PropoRendaApposentadoriaAcima65anos",2012-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.791973129643912
+201,0.842449927738373,"PropoRendaApposentadoriaAcima65anos",2013-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.932835219380618
+202,0.827537367137994,"PropoRendaApposentadoriaAcima65anos",2013-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.678565949050062
+203,0.821674280399923,"PropoRendaApposentadoriaAcima65anos",2013-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.57859634445136
+204,0.836857094227116,"PropoRendaApposentadoriaAcima65anos",2013-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.837473615555755
+205,0.834038696382398,"PropoRendaApposentadoriaAcima65anos",2014-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.789418021169139
+206,0.846389054396878,"PropoRendaApposentadoriaAcima65anos",2014-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,1
+207,0.834164942646585,"PropoRendaApposentadoriaAcima65anos",2014-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.791570605580161
+208,0.843933859004635,"PropoRendaApposentadoriaAcima65anos",2014-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.958137253712908
+209,0.836832349674635,"PropoRendaApposentadoriaAcima65anos",2015-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.837051704156862
+210,0.817583534772577,"PropoRendaApposentadoriaAcima65anos",2015-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.508846357601567
+211,0.822993028936647,"PropoRendaApposentadoriaAcima65anos",2015-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.601081901235874
+212,0.823034004424193,"PropoRendaApposentadoriaAcima65anos",2015-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.6017805610837
+213,0.83658268685653,"PropoRendaApposentadoriaAcima65anos",2016-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.832794783813711
+214,0.83281603486337,"PropoRendaApposentadoriaAcima65anos",2016-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.76857081319222
+215,0.837627581041744,"PropoRendaApposentadoriaAcima65anos",2016-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.85061093820642
+216,0.829792773336155,"PropoRendaApposentadoriaAcima65anos",2016-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.717022154102522
+217,0.840302791757724,"PropoRendaApposentadoriaAcima65anos",2017-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.896225094953951
+218,0.83577135042141,"PropoRendaApposentadoriaAcima65anos",2017-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.81896094743384
+219,0.822374805196708,"PropoRendaApposentadoriaAcima65anos",2017-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.59054076725709
+220,0.839998526835915,"PropoRendaApposentadoriaAcima65anos",2017-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.891037171717374
+221,0.827117520655341,"PropoRendaApposentadoriaAcima65anos",2018-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.671407281826119
+222,0.834118009078645,"PropoRendaApposentadoriaAcima65anos",2018-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.790770356421487
+223,0.827508713713216,"PropoRendaApposentadoriaAcima65anos",2018-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.678077388727928
+224,0.827977832641184,"PropoRendaApposentadoriaAcima65anos",2018-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.686076184555764
+225,0.830981047788142,"PropoRendaApposentadoriaAcima65anos",2019-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.737283039268782
+226,0.820216701242134,"PropoRendaApposentadoriaAcima65anos",2019-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.5537436314377
+227,0.832709436890803,"PropoRendaApposentadoriaAcima65anos",2019-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.766753245476678
+228,0.814959440867365,"PropoRendaApposentadoriaAcima65anos",2019-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.464103777139555
+229,0.79368552948669,"PropoRendaApposentadoriaAcima65anos",2020-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.101369162421298
+230,0.788175514908963,"PropoRendaApposentadoriaAcima65anos",2020-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.00741967757201082
+231,0.811342575814874,"PropoRendaApposentadoriaAcima65anos",2020-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.402433775425858
+232,0.817552248113827,"PropoRendaApposentadoriaAcima65anos",2020-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.508312898854634
+233,0.787740360510305,"PropoRendaApposentadoriaAcima65anos",2021-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0
+234,0.811101373488338,"PropoRendaApposentadoriaAcima65anos",2021-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.398321112200953
+235,0.796208197334394,"PropoRendaApposentadoriaAcima65anos",2021-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.14438235982656
+236,0.814071096933923,"PropoRendaApposentadoriaAcima65anos",2021-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.448956910695093
+237,0.813705133621483,"PropoRendaApposentadoriaAcima65anos",2022-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.442716988061048
+238,0.808001033565507,"PropoRendaApposentadoriaAcima65anos",2022-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.345458214199728
+239,0.8124073192389,"PropoRendaApposentadoriaAcima65anos",2022-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.42058837279993
+240,0.804078114853321,"PropoRendaApposentadoriaAcima65anos",2022-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.27856979005557
+241,0.801563004607134,"PropoRendaApposentadoriaAcima65anos",2023-04-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.235685454880924
+242,0.814732598244244,"PropoRendaApposentadoriaAcima65anos",2023-01-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.460235956595082
+243,0.806718327562593,"PropoRendaApposentadoriaAcima65anos",2023-07-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.323587207056844
+244,0.808866276218686,"PropoRendaApposentadoriaAcima65anos",2023-10-01,"pos","prop","trim","percent","acesso_a_direitos","acesso_a_direitos","Pessoas com mais de 65 anos sem previdência",0,0.360211188150902
+245,-0.221514076332405,"TxOcupadosRendaAbaixoPOF",2012-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0
+246,-0.187952281888939,"TxOcupadosRendaAbaixoPOF",2013-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.339542290527312
+247,-0.158806136192227,"TxOcupadosRendaAbaixoPOF",2014-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.634411776322373
+248,-0.148384693691987,"TxOcupadosRendaAbaixoPOF",2015-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.739844769873737
+249,-0.149658177296127,"TxOcupadosRendaAbaixoPOF",2016-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.726961026704788
+250,-0.137004765045039,"TxOcupadosRendaAbaixoPOF",2017-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.854974699691133
+251,-0.140412010912853,"TxOcupadosRendaAbaixoPOF",2018-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.820503835259374
+252,-0.142401083514198,"TxOcupadosRendaAbaixoPOF",2019-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.800380529033199
+253,-0.140992553870366,"TxOcupadosRendaAbaixoPOF",2020-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.81463052339354
+254,-0.133714500750604,"TxOcupadosRendaAbaixoPOF",2021-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.888262069854089
+255,-0.16290806678299,"TxOcupadosRendaAbaixoPOF",2022-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.592912835891228
+256,-0.139949273447253,"TxOcupadosRendaAbaixoPOF",2023-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.825185317331117
+257,-0.122669851681201,"TxOcupadosRendaAbaixoPOF",2024-01-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,1
+258,-0.205270900424726,"TxOcupadosRendaAbaixoPOF",2012-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.164331056923123
+259,-0.182872003455688,"TxOcupadosRendaAbaixoPOF",2013-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.39093910658994
+260,-0.16246241837495,"TxOcupadosRendaAbaixoPOF",2014-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.597421429181454
+261,-0.156343773217104,"TxOcupadosRendaAbaixoPOF",2015-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.659323327642767
+262,-0.14048349050372,"TxOcupadosRendaAbaixoPOF",2016-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.819780681315689
+263,-0.138391922088358,"TxOcupadosRendaAbaixoPOF",2017-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.840940930412109
+264,-0.143464181061798,"TxOcupadosRendaAbaixoPOF",2018-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.789625246654775
+265,-0.147767192690154,"TxOcupadosRendaAbaixoPOF",2019-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.746091983648867
+266,-0.122829655393377,"TxOcupadosRendaAbaixoPOF",2020-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.998383277194597
+267,-0.138952872686643,"TxOcupadosRendaAbaixoPOF",2021-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.835265833052962
+268,-0.160564743144884,"TxOcupadosRendaAbaixoPOF",2022-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.616620074694254
+269,-0.137846914908673,"TxOcupadosRendaAbaixoPOF",2023-04-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.846454729337723
+270,-0.19977774857604,"TxOcupadosRendaAbaixoPOF",2012-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.219904884003764
+271,-0.180074346215584,"TxOcupadosRendaAbaixoPOF",2013-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.419242806173565
+272,-0.164918630281562,"TxOcupadosRendaAbaixoPOF",2014-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.572572107784282
+273,-0.163998767767585,"TxOcupadosRendaAbaixoPOF",2015-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.581878291501368
+274,-0.140717500163961,"TxOcupadosRendaAbaixoPOF",2016-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.817413222204478
+275,-0.142374456337342,"TxOcupadosRendaAbaixoPOF",2017-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.800649914290152
+276,-0.149544162701369,"TxOcupadosRendaAbaixoPOF",2018-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.728114504261624
+277,-0.149063533103727,"TxOcupadosRendaAbaixoPOF",2019-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.732976999762378
+278,-0.124484236330958,"TxOcupadosRendaAbaixoPOF",2020-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.981643999372148
+279,-0.147032043561654,"TxOcupadosRendaAbaixoPOF",2021-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.75352943516507
+280,-0.153055936622598,"TxOcupadosRendaAbaixoPOF",2022-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.692586136937978
+281,-0.135871316251217,"TxOcupadosRendaAbaixoPOF",2023-07-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.866441720630612
+282,-0.203414193874006,"TxOcupadosRendaAbaixoPOF",2012-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.18311522521694
+283,-0.179882048627728,"TxOcupadosRendaAbaixoPOF",2013-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.421188267211218
+284,-0.164704739813405,"TxOcupadosRendaAbaixoPOF",2014-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.574736022458223
+285,-0.171135433959364,"TxOcupadosRendaAbaixoPOF",2015-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.509677146548666
+286,-0.140201911851956,"TxOcupadosRendaAbaixoPOF",2016-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.822629392535364
+287,-0.145864291643791,"TxOcupadosRendaAbaixoPOF",2017-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.765343498373959
+288,-0.14805365728756,"TxOcupadosRendaAbaixoPOF",2018-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.743193841664174
+289,-0.148214001907721,"TxOcupadosRendaAbaixoPOF",2019-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.741571646531107
+290,-0.133244765208185,"TxOcupadosRendaAbaixoPOF",2020-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.893014350971944
+291,-0.188779997500813,"TxOcupadosRendaAbaixoPOF",2021-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.331168350473709
+292,-0.146082602696001,"TxOcupadosRendaAbaixoPOF",2022-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.763134860965144
+293,-0.138676837914612,"TxOcupadosRendaAbaixoPOF",2023-10-01,"neg","prop","trim","percent","qualidade","qualidade_no_trabalho","Porcentagem de ocupados com rendimento do trabalho abaixo da mediana do rendimento necessário da POF",0,0.838058457235154
+294,2833.84216919077,"RendimentoRealMedio",2012-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.168572905803655
+295,2894.16385482115,"RendimentoRealMedio",2013-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.299764103305544
+296,2998.92888248145,"RendimentoRealMedio",2014-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.527613330187083
+297,2993.65931046822,"RendimentoRealMedio",2015-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.516152750869488
+298,2903.10564957099,"RendimentoRealMedio",2016-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.319211251520792
+299,2953.44427627518,"RendimentoRealMedio",2017-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.428690697410105
+300,2982.81638420956,"RendimentoRealMedio",2018-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.492570908528167
+301,3018.18714130262,"RendimentoRealMedio",2019-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.569497339397831
+302,3048.37122043851,"RendimentoRealMedio",2020-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.635143473884081
+303,3062.9671352723,"RendimentoRealMedio",2021-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.666887539482873
+304,2797.85262143451,"RendimentoRealMedio",2022-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.090300692115427
+305,3003.78099220696,"RendimentoRealMedio",2023-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.538165987637685
+306,3122.62288459485,"RendimentoRealMedio",2024-01-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.796630419008048
+307,2843.25878389668,"RendimentoRealMedio",2012-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.189052720761943
+308,2926.42790624773,"RendimentoRealMedio",2013-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.369933885510433
+309,2975.53850686161,"RendimentoRealMedio",2014-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.476742547059625
+310,2981.768482991,"RendimentoRealMedio",2015-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.490291870495826
+311,2868.00153749005,"RendimentoRealMedio",2016-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.242864736117389
+312,2924.95125636334,"RendimentoRealMedio",2017-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.366722379323236
+313,2988.94170844791,"RendimentoRealMedio",2018-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.505892628793753
+314,2982.27938471046,"RendimentoRealMedio",2019-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.491403010008611
+315,3180.75648846311,"RendimentoRealMedio",2020-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.923062845868755
+316,2977.89423161395,"RendimentoRealMedio",2021-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.48186591766863
+317,2826.61575619937,"RendimentoRealMedio",2022-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.152856472085371
+318,3002.61202698917,"RendimentoRealMedio",2023-04-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.535623652403559
+319,2861.79711310754,"RendimentoRealMedio",2012-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.229370984143365
+320,2965.56123860483,"RendimentoRealMedio",2013-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.455043389340045
+321,3001.26090055029,"RendimentoRealMedio",2014-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.532685142087729
+322,2945.84194725843,"RendimentoRealMedio",2015-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.412156699112675
+323,2891.72621010312,"RendimentoRealMedio",2016-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.294462568272156
+324,2936.71729162715,"RendimentoRealMedio",2017-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.392311854152688
+325,2978.15686113467,"RendimentoRealMedio",2018-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.482437100004842
+326,2987.11617500776,"RendimentoRealMedio",2019-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.501922349853596
+327,3216.13217610964,"RendimentoRealMedio",2020-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,1
+328,2858.7364251361,"RendimentoRealMedio",2021-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.222714417504739
+329,2930.08448005115,"RendimentoRealMedio",2022-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.377886420175399
+330,3052.97925392803,"RendimentoRealMedio",2023-07-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.645165299788006
+331,2848.98601945034,"RendimentoRealMedio",2012-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.201508654027203
+332,2939.95549360577,"RendimentoRealMedio",2013-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.3993544888352
+333,2993.59604559853,"RendimentoRealMedio",2014-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.516015158659858
+334,2897.74387122769,"RendimentoRealMedio",2015-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.30755013638042
+335,2917.06150733018,"RendimentoRealMedio",2016-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.349563282841882
+336,2961.87661692004,"RendimentoRealMedio",2017-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.447029854470827
+337,3002.13316765695,"RendimentoRealMedio",2018-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.534582200584493
+338,3013.57010693205,"RendimentoRealMedio",2019-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.559455937841283
+339,3088.41820767131,"RendimentoRealMedio",2020-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.722240048797563
+340,2756.33238177122,"RendimentoRealMedio",2021-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0
+341,2984.27546768058,"RendimentoRealMedio",2022-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.495744210232487
+342,3077.46026748725,"RendimentoRealMedio",2023-10-01,"pos","real","trim","dollar","qualidade","qualidade_no_trabalho","Rendimento real médio",0,0.698408067315651
+493,1145.89750691908,"SalarioMinimoReal_MM",2012-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0
+496,1171.56830726209,"SalarioMinimoReal_MM",2012-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.114237804013959
+499,1196.20064890769,"SalarioMinimoReal_MM",2012-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.223854355882828
+502,1218.84861400552,"SalarioMinimoReal_MM",2012-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.324640220117302
+505,1235.30289623603,"SalarioMinimoReal_MM",2013-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.397863533902733
+508,1241.02751560398,"SalarioMinimoReal_MM",2013-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.423338701668137
+511,1247.51012704186,"SalarioMinimoReal_MM",2013-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.452187015123266
+514,1256.79497300349,"SalarioMinimoReal_MM",2013-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.493505571580089
+517,1264.85171816156,"SalarioMinimoReal_MM",2014-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.529358948259427
+520,1268.42078192682,"SalarioMinimoReal_MM",2014-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.545241663308477
+523,1270.29014408664,"SalarioMinimoReal_MM",2014-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.553560524629168
+526,1271.33973709577,"SalarioMinimoReal_MM",2014-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.558231325650924
+529,1274.06520576838,"SalarioMinimoReal_MM",2015-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.570359952413922
+532,1276.14734477946,"SalarioMinimoReal_MM",2015-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.579625693454299
+535,1274.83635850264,"SalarioMinimoReal_MM",2015-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.573791664465907
+538,1271.40554536086,"SalarioMinimoReal_MM",2015-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.558524179461066
+541,1267.51093080452,"SalarioMinimoReal_MM",2016-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.541192728612155
+544,1271.63915673705,"SalarioMinimoReal_MM",2016-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.559563775042505
+547,1277.55831498941,"SalarioMinimoReal_MM",2016-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.5859046616267
+550,1284.93045873197,"SalarioMinimoReal_MM",2016-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.618711488869023
+553,1294.93967248628,"SalarioMinimoReal_MM",2017-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.663253559389626
+556,1301.43168989967,"SalarioMinimoReal_MM",2017-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.692143730440643
+559,1313.41348580646,"SalarioMinimoReal_MM",2017-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.745464002276571
+562,1328.29853915415,"SalarioMinimoReal_MM",2017-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.811704079888088
+565,1337.53048265867,"SalarioMinimoReal_MM",2018-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.852787214759046
+568,1337.94736722769,"SalarioMinimoReal_MM",2018-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.854642395628196
+571,1334.2263466329,"SalarioMinimoReal_MM",2018-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.83808345645374
+574,1327.60884297971,"SalarioMinimoReal_MM",2018-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.808634858229547
+577,1325.14382460787,"SalarioMinimoReal_MM",2019-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.797665263129652
+580,1325.31765700201,"SalarioMinimoReal_MM",2019-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.798438835854604
+583,1328.05667588033,"SalarioMinimoReal_MM",2019-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.81062776248062
+586,1333.43682997071,"SalarioMinimoReal_MM",2019-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.834570022960593
+589,1334.67282229412,"SalarioMinimoReal_MM",2020-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.840070320844484
+592,1339.48803941696,"SalarioMinimoReal_MM",2020-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.861498551465017
+595,1347.12801195859,"SalarioMinimoReal_MM",2020-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.895497245476145
+598,1349.84538022223,"SalarioMinimoReal_MM",2020-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.907589824553836
+601,1348.93459900295,"SalarioMinimoReal_MM",2021-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.903536750826587
+604,1343.67588003469,"SalarioMinimoReal_MM",2021-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.880134889613321
+607,1331.02075925251,"SalarioMinimoReal_MM",2021-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.823818250148619
+610,1314.37635878219,"SalarioMinimoReal_MM",2021-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.749748889885139
+613,1303.5014031837,"SalarioMinimoReal_MM",2022-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.701354175668171
+616,1299.06719834269,"SalarioMinimoReal_MM",2022-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.681621490406452
+619,1295.73162299184,"SalarioMinimoReal_MM",2022-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.666777823745784
+622,1303.70735553421,"SalarioMinimoReal_MM",2022-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.702270685630439
+625,1313.82541679072,"SalarioMinimoReal_MM",2023-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.747297139164334
+628,1322.9085128368,"SalarioMinimoReal_MM",2023-04-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.787717886943419
+631,1340.15250301748,"SalarioMinimoReal_MM",2023-07-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.864455485473944
+634,1354.81180141058,"SalarioMinimoReal_MM",2023-10-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,0.929690929419466
+637,1370.61121324937,"SalarioMinimoReal_MM",2024-01-01,"pos","real","mensal","dollar","qualidade","qualidade_no_trabalho","Salário-mínimo real",0,1
+643,0.105545411677698,"MassaRendaHabTodosTrab_noPIB",2012-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.54017445806612
+644,0.103688825926753,"MassaRendaHabTodosTrab_noPIB",2012-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.445248934169253
+645,0.102079562100717,"MassaRendaHabTodosTrab_noPIB",2012-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.36296875309117
+646,0.100332156863591,"MassaRendaHabTodosTrab_noPIB",2012-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.273625528567397
+647,0.105697384894095,"MassaRendaHabTodosTrab_noPIB",2013-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.547944709010594
+648,0.103236457945665,"MassaRendaHabTodosTrab_noPIB",2013-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.422119774863204
+649,0.103669233321317,"MassaRendaHabTodosTrab_noPIB",2013-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.44424718225202
+650,0.100347527772135,"MassaRendaHabTodosTrab_noPIB",2013-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.274411429000797
+651,0.105853948665991,"MassaRendaHabTodosTrab_noPIB",2014-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.555949670840627
+652,0.105497011809602,"MassaRendaHabTodosTrab_noPIB",2014-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.537699817272818
+653,0.104837441799821,"MassaRendaHabTodosTrab_noPIB",2014-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.503976608585444
+654,0.10329309184115,"MassaRendaHabTodosTrab_noPIB",2014-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.425015413912733
+655,0.108378055762053,"MassaRendaHabTodosTrab_noPIB",2015-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.685004947896118
+656,0.110078044170329,"MassaRendaHabTodosTrab_noPIB",2015-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.771923793520169
+657,0.109122092463802,"MassaRendaHabTodosTrab_noPIB",2015-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.723046860948651
+658,0.106520776227823,"MassaRendaHabTodosTrab_noPIB",2015-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.590043951497231
+659,0.112108144334003,"MassaRendaHabTodosTrab_noPIB",2016-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.875720949941186
+660,0.108806665598632,"MassaRendaHabTodosTrab_noPIB",2016-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.706919375098795
+661,0.109335787012082,"MassaRendaHabTodosTrab_noPIB",2016-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.733972866892119
+662,0.10771807560569,"MassaRendaHabTodosTrab_noPIB",2016-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.651260768790787
+663,0.111484181350727,"MassaRendaHabTodosTrab_noPIB",2017-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.843818295808686
+664,0.109808134124935,"MassaRendaHabTodosTrab_noPIB",2017-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.75812354085152
+665,0.110619617035072,"MassaRendaHabTodosTrab_noPIB",2017-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.799613916579602
+666,0.108928252178309,"MassaRendaHabTodosTrab_noPIB",2017-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.713135985222401
+667,0.111654797108433,"MassaRendaHabTodosTrab_noPIB",2018-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.852541722764354
+668,0.110004491571679,"MassaRendaHabTodosTrab_noPIB",2018-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.768163116720149
+669,0.11138611987275,"MassaRendaHabTodosTrab_noPIB",2018-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.838804502523711
+670,0.110790276885384,"MassaRendaHabTodosTrab_noPIB",2018-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.808339597949708
+671,0.114463030128294,"MassaRendaHabTodosTrab_noPIB",2019-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.996124097291951
+672,0.112524647886026,"MassaRendaHabTodosTrab_noPIB",2019-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.89701639393593
+673,0.110636907029906,"MassaRendaHabTodosTrab_noPIB",2019-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.800497938132043
+674,0.110305184120646,"MassaRendaHabTodosTrab_noPIB",2019-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.783537250518195
+675,0.114226716237022,"MassaRendaHabTodosTrab_noPIB",2020-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.984041585120519
+676,0.114538836354527,"MassaRendaHabTodosTrab_noPIB",2020-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,1
+677,0.104504755301886,"MassaRendaHabTodosTrab_noPIB",2020-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.486966653567842
+678,0.100074810917909,"MassaRendaHabTodosTrab_noPIB",2020-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.260467666775038
+679,0.0970129159336744,"MassaRendaHabTodosTrab_noPIB",2021-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.103915789035097
+680,0.0967874204487371,"MassaRendaHabTodosTrab_noPIB",2021-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.0923864120412486
+681,0.0949804955128993,"MassaRendaHabTodosTrab_noPIB",2021-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0
+682,0.0950789960121673,"MassaRendaHabTodosTrab_noPIB",2021-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.00503624004027695
+683,0.0997324079130605,"MassaRendaHabTodosTrab_noPIB",2022-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.242960915685
+684,0.0995431237262524,"MassaRendaHabTodosTrab_noPIB",2022-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.233282989099058
+685,0.101414382299472,"MassaRendaHabTodosTrab_noPIB",2022-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.328958720919665
+686,0.101880201484207,"MassaRendaHabTodosTrab_noPIB",2022-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.352775627911262
+687,0.104970165016969,"MassaRendaHabTodosTrab_noPIB",2023-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.510762624752291
+688,0.103582390917224,"MassaRendaHabTodosTrab_noPIB",2023-04-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.439807009908353
+689,0.105119705954799,"MassaRendaHabTodosTrab_noPIB",2023-07-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.518408515528042
+690,0.10463219348004,"MassaRendaHabTodosTrab_noPIB",2023-10-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.493482450546018
+691,0.11131837386763,"MassaRendaHabTodosTrab_noPIB",2024-01-01,"pos","prop","trim","percent","qualidade","qualidade_no_trabalho","Participação dos salários na renda nacional",0,0.835340711516663
+692,-0.389502342322394,"TxSubocupadasJornadaAcima44h",2012-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0
+693,-0.351743139569869,"TxSubocupadasJornadaAcima44h",2013-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.223774627437193
+694,-0.329828513778965,"TxSubocupadasJornadaAcima44h",2014-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.353648588334238
+695,-0.27174586613545,"TxSubocupadasJornadaAcima44h",2015-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.697867265888922
+696,-0.2446765023945,"TxSubocupadasJornadaAcima44h",2016-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.858290059394218
+697,-0.236559106185375,"TxSubocupadasJornadaAcima44h",2017-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.906396671293898
+698,-0.250614177228762,"TxSubocupadasJornadaAcima44h",2018-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.82310126098159
+699,-0.259028853948359,"TxSubocupadasJornadaAcima44h",2019-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.773232857766791
+700,-0.25949710763005,"TxSubocupadasJornadaAcima44h",2020-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.770457817894968
+701,-0.248029302180228,"TxSubocupadasJornadaAcima44h",2021-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.838420160979252
+702,-0.255317012336011,"TxSubocupadasJornadaAcima44h",2022-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.795230567288174
+703,-0.236162366940108,"TxSubocupadasJornadaAcima44h",2023-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.908747890872902
+704,-0.238666972403824,"TxSubocupadasJornadaAcima44h",2024-01-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.893904697328973
+705,-0.373661880613146,"TxSubocupadasJornadaAcima44h",2012-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.0938762780732455
+706,-0.346264222247356,"TxSubocupadasJornadaAcima44h",2013-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.256244663699347
+707,-0.321937067013562,"TxSubocupadasJornadaAcima44h",2014-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.400416142496923
+708,-0.264471849608889,"TxSubocupadasJornadaAcima44h",2015-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.740975706204027
+709,-0.249564752705362,"TxSubocupadasJornadaAcima44h",2016-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.829320528461531
+710,-0.244591358579662,"TxSubocupadasJornadaAcima44h",2017-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.858794652289594
+711,-0.256986093791436,"TxSubocupadasJornadaAcima44h",2018-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.785338989775323
+712,-0.270141833454424,"TxSubocupadasJornadaAcima44h",2019-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.707373340949515
+713,-0.240852292184501,"TxSubocupadasJornadaAcima44h",2020-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.880953705673848
+714,-0.25405281818608,"TxSubocupadasJornadaAcima44h",2021-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.802722636884113
+715,-0.265302139051453,"TxSubocupadasJornadaAcima44h",2022-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.736055112093698
+716,-0.234495782564833,"TxSubocupadasJornadaAcima44h",2023-04-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.918624669789927
+717,-0.365069866371219,"TxSubocupadasJornadaAcima44h",2012-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.144795647280364
+718,-0.342940643856676,"TxSubocupadasJornadaAcima44h",2013-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.27594138560863
+719,-0.322372258950879,"TxSubocupadasJornadaAcima44h",2014-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.397837038423274
+720,-0.262367946992207,"TxSubocupadasJornadaAcima44h",2015-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.753444190438129
+721,-0.240357732892968,"TxSubocupadasJornadaAcima44h",2016-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.883884642058647
+722,-0.250733988684896,"TxSubocupadasJornadaAcima44h",2017-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.822391215164817
+723,-0.259673500413958,"TxSubocupadasJornadaAcima44h",2018-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.769412450762608
+724,-0.266497084767175,"TxSubocupadasJornadaAcima44h",2019-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.728973433645773
+725,-0.243572326198126,"TxSubocupadasJornadaAcima44h",2020-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.864833804996794
+726,-0.264053715943909,"TxSubocupadasJornadaAcima44h",2021-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.743453716815456
+727,-0.258293337406918,"TxSubocupadasJornadaAcima44h",2022-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.777591793550303
+728,-0.234528692929163,"TxSubocupadasJornadaAcima44h",2023-07-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.918429631124386
+729,-0.363514599971775,"TxSubocupadasJornadaAcima44h",2012-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.154012715802233
+730,-0.340401512203597,"TxSubocupadasJornadaAcima44h",2013-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.290989193778885
+731,-0.323455238887563,"TxSubocupadasJornadaAcima44h",2014-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.391418909485495
+732,-0.220764701308455,"TxSubocupadasJornadaAcima44h",2015-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,1
+733,-0.242557061633933,"TxSubocupadasJornadaAcima44h",2016-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.870850628262145
+734,-0.255814652517508,"TxSubocupadasJornadaAcima44h",2017-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.792281372440441
+735,-0.267042730454943,"TxSubocupadasJornadaAcima44h",2018-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.72573974088766
+736,-0.266020170362038,"TxSubocupadasJornadaAcima44h",2019-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.731799800082279
+737,-0.249577594374127,"TxSubocupadasJornadaAcima44h",2020-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.829244424109901
+738,-0.266788211765987,"TxSubocupadasJornadaAcima44h",2021-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.72724811025579
+739,-0.2482598199953,"TxSubocupadasJornadaAcima44h",2022-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.837054029429191
+740,-0.237818710534435,"TxSubocupadasJornadaAcima44h",2023-10-01,"neg","prop","trim","percent","qualidade","jornada","Pessoas subocupadas e jornada acima de 44h semana",0,0.89893180251008
+992,-0.0320822913149109,"Admitidos_ContratosAtipicos_MM",2012-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.863334115056404
+995,-0.0318661291980168,"Admitidos_ContratosAtipicos_MM",2012-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.875188421794863
+998,-0.0309758696326944,"Admitidos_ContratosAtipicos_MM",2012-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.924010158534926
+1001,-0.0305628966748996,"Admitidos_ContratosAtipicos_MM",2012-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.946657550162695
+1004,-0.03019439876433,"Admitidos_ContratosAtipicos_MM",2013-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.966865935087576
+1007,-0.0298887534315839,"Admitidos_ContratosAtipicos_MM",2013-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.983627491550893
+1010,-0.029590202351094,"Admitidos_ContratosAtipicos_MM",2013-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,1
+1013,-0.0296817759749025,"Admitidos_ContratosAtipicos_MM",2013-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.994978112532503
+1016,-0.0298171074671537,"Admitidos_ContratosAtipicos_MM",2014-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.987556548367747
+1019,-0.0298813583210435,"Admitidos_ContratosAtipicos_MM",2014-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.984033038600349
+1022,-0.0302486182910613,"Admitidos_ContratosAtipicos_MM",2014-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.963892542199303
+1025,-0.0305661827074558,"Admitidos_ContratosAtipicos_MM",2014-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.946477344498384
+1028,-0.030636363675099,"Admitidos_ContratosAtipicos_MM",2015-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.942628627944354
+1031,-0.0311495740135785,"Admitidos_ContratosAtipicos_MM",2015-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.914484229373976
+1034,-0.0317437824056018,"Admitidos_ContratosAtipicos_MM",2015-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.881897906447367
+1037,-0.0324607852315271,"Admitidos_ContratosAtipicos_MM",2015-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.842577550258293
+1040,-0.0331176395076749,"Admitidos_ContratosAtipicos_MM",2016-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.806555733929862
+1043,-0.0340171280918557,"Admitidos_ContratosAtipicos_MM",2016-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.757227878809693
+1046,-0.0347072743598963,"Admitidos_ContratosAtipicos_MM",2016-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.719380333304003
+1049,-0.0350562437597403,"Admitidos_ContratosAtipicos_MM",2016-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.700242889761509
+1052,-0.0353495635057879,"Admitidos_ContratosAtipicos_MM",2017-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.684157267118396
+1055,-0.0353857895428935,"Admitidos_ContratosAtipicos_MM",2017-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.682170635224062
+1058,-0.0350670883896955,"Admitidos_ContratosAtipicos_MM",2017-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.69964817144638
+1061,-0.0347914600801471,"Admitidos_ContratosAtipicos_MM",2017-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.714763597655822
+1064,-0.0349809144354499,"Admitidos_ContratosAtipicos_MM",2018-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.704373941628367
+1067,-0.0352409602025873,"Admitidos_ContratosAtipicos_MM",2018-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.690113060332525
+1070,-0.0356551191809585,"Admitidos_ContratosAtipicos_MM",2018-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.667400627466668
+1073,-0.0363902386875805,"Admitidos_ContratosAtipicos_MM",2018-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.627086754498858
+1076,-0.0370700906201157,"Admitidos_ContratosAtipicos_MM",2019-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.589803749221136
+1079,-0.0372300720468536,"Admitidos_ContratosAtipicos_MM",2019-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.581030385357678
+1082,-0.0373800336962837,"Admitidos_ContratosAtipicos_MM",2019-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.572806504980801
+1085,-0.0373405901722279,"Admitidos_ContratosAtipicos_MM",2019-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.574969583505945
+1088,-0.0390283558004213,"Admitidos_ContratosAtipicos_MM",2020-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.482412701908445
+1091,-0.0437898524150419,"Admitidos_ContratosAtipicos_MM",2020-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.221292750758549
+1094,-0.0417150165843815,"Admitidos_ContratosAtipicos_MM",2020-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.33507651972785
+1097,-0.0418540105965563,"Admitidos_ContratosAtipicos_MM",2020-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.327454103372923
+1100,-0.0414085795377026,"Admitidos_ContratosAtipicos_MM",2021-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.351881493696248
+1103,-0.0397943576283608,"Admitidos_ContratosAtipicos_MM",2021-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.44040524583295
+1106,-0.0425025982868878,"Admitidos_ContratosAtipicos_MM",2021-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.29188562570232
+1109,-0.04482671300183,"Admitidos_ContratosAtipicos_MM",2021-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.164431430109909
+1112,-0.0450862565482177,"Admitidos_ContratosAtipicos_MM",2022-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.150198090544796
+1115,-0.047825103949583,"Admitidos_ContratosAtipicos_MM",2022-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0
+1118,-0.0472270174952975,"Admitidos_ContratosAtipicos_MM",2022-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.0327989954349445
+1121,-0.0464693238996797,"Admitidos_ContratosAtipicos_MM",2022-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.0743508289628307
+1124,-0.0461361994421064,"Admitidos_ContratosAtipicos_MM",2023-01-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.0926193376122495
+1127,-0.0439335889422189,"Admitidos_ContratosAtipicos_MM",2023-04-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.213410255402012
+1130,-0.0436422623119846,"Admitidos_ContratosAtipicos_MM",2023-07-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.229386575792929
+1133,-0.0435266417347486,"Admitidos_ContratosAtipicos_MM",2023-10-01,"neg","prop","mensal","percent","qualidade","forma_de_contratacao","Contratos atípicos",0,0.235727195544098
+1135,-0.506269130011788,"Gini_rendahabTodosTrabalhos",2012-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.0560497858883047
+1136,-0.496223222115077,"Gini_rendahabTodosTrabalhos",2013-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.443227602117929
+1137,-0.4910169408613,"Gini_rendahabTodosTrabalhos",2014-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.643882100172265
+1138,-0.488336139504099,"Gini_rendahabTodosTrabalhos",2015-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.747202459655784
+1139,-0.490692629544355,"Gini_rendahabTodosTrabalhos",2016-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.656381333568027
+1140,-0.490056829396053,"Gini_rendahabTodosTrabalhos",2017-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.680885610882637
+1141,-0.497335070875124,"Gini_rendahabTodosTrabalhos",2018-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.400376007287605
+1142,-0.501553207068355,"Gini_rendahabTodosTrabalhos",2019-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.237805458498378
+1143,-0.501855815302406,"Gini_rendahabTodosTrabalhos",2020-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.226142680336605
+1144,-0.502453568864439,"Gini_rendahabTodosTrabalhos",2021-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.203104750746666
+1145,-0.481776928980253,"Gini_rendahabTodosTrabalhos",2022-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,1
+1146,-0.490879287557618,"Gini_rendahabTodosTrabalhos",2023-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.649187375321546
+1147,-0.489834719606733,"Gini_rendahabTodosTrabalhos",2024-01-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.689445910666023
+1148,-0.501238038639713,"Gini_rendahabTodosTrabalhos",2012-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.249952317219442
+1149,-0.496446981371264,"Gini_rendahabTodosTrabalhos",2013-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.434603730481599
+1150,-0.491766562641715,"Gini_rendahabTodosTrabalhos",2014-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.614991040556412
+1151,-0.492998802481452,"Gini_rendahabTodosTrabalhos",2015-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.567499471339784
+1152,-0.486472554992361,"Gini_rendahabTodosTrabalhos",2016-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.819026588349051
+1153,-0.490768745337846,"Gini_rendahabTodosTrabalhos",2017-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.653447766287953
+1154,-0.500570404168684,"Gini_rendahabTodosTrabalhos",2018-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.27568351634951
+1155,-0.504015662154416,"Gini_rendahabTodosTrabalhos",2019-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.142900349613521
+1156,-0.497933563809056,"Gini_rendahabTodosTrabalhos",2020-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.377309581677181
+1157,-0.500202102823096,"Gini_rendahabTodosTrabalhos",2021-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.2898781627832
+1158,-0.490070137690054,"Gini_rendahabTodosTrabalhos",2022-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.680372697937185
+1159,-0.488292820780771,"Gini_rendahabTodosTrabalhos",2023-04-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.748872000017135
+1160,-0.499378896296548,"Gini_rendahabTodosTrabalhos",2012-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.321605240965865
+1161,-0.494992908461427,"Gini_rendahabTodosTrabalhos",2013-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.490644934488024
+1162,-0.495207303465577,"Gini_rendahabTodosTrabalhos",2014-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.482381969072572
+1163,-0.492620076161984,"Gini_rendahabTodosTrabalhos",2015-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.582095905114407
+1164,-0.487658885635028,"Gini_rendahabTodosTrabalhos",2016-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.773304398550307
+1165,-0.493468901200686,"Gini_rendahabTodosTrabalhos",2017-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.549381467731076
+1166,-0.504774635133799,"Gini_rendahabTodosTrabalhos",2018-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.113648886853142
+1167,-0.5047227132236,"Gini_rendahabTodosTrabalhos",2019-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.11565000133797
+1168,-0.507723425591394,"Gini_rendahabTodosTrabalhos",2020-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0
+1169,-0.496520308297477,"Gini_rendahabTodosTrabalhos",2021-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.431777648513309
+1170,-0.494222574525338,"Gini_rendahabTodosTrabalhos",2022-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.520334258161811
+1171,-0.492025614905288,"Gini_rendahabTodosTrabalhos",2023-07-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.605006946462499
+1172,-0.496635917836102,"Gini_rendahabTodosTrabalhos",2012-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.427321958777711
+1173,-0.49019751673768,"Gini_rendahabTodosTrabalhos",2013-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.67546340133599
+1174,-0.489740317731048,"Gini_rendahabTodosTrabalhos",2014-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.693084239073123
+1175,-0.490819759907026,"Gini_rendahabTodosTrabalhos",2015-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.651481621496055
+1176,-0.492551813047612,"Gini_rendahabTodosTrabalhos",2016-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.584726823476723
+1177,-0.498825806593231,"Gini_rendahabTodosTrabalhos",2017-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.34292178753499
+1178,-0.504174337802397,"Gini_rendahabTodosTrabalhos",2018-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.136784855473442
+1179,-0.504915150952002,"Gini_rendahabTodosTrabalhos",2019-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.108233287964827
+1180,-0.502620047664095,"Gini_rendahabTodosTrabalhos",2020-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.196688516518557
+1181,-0.490062769764336,"Gini_rendahabTodosTrabalhos",2021-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.680656664047462
+1182,-0.493238104201737,"Gini_rendahabTodosTrabalhos",2022-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.558276579946336
+1183,-0.494626558735035,"Gini_rendahabTodosTrabalhos",2023-10-01,"neg","prop","trim","percent","qualidade","equidade","Índice de Gini dos rendimentos habituais do trabalho",0,0.504764363861571
+1184,0.414882159596876,"RendimentoRealMedio_SexoCor",2012-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.0358435376799891
+1185,0.413250633049547,"RendimentoRealMedio_SexoCor",2013-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.0111567099331027
+1186,0.416111996546086,"RendimentoRealMedio_SexoCor",2014-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.0544523509852992
+1187,0.42813689846692,"RendimentoRealMedio_SexoCor",2015-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.236402612768547
+1188,0.431315183946614,"RendimentoRealMedio_SexoCor",2016-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.284493639111996
+1189,0.435273394748247,"RendimentoRealMedio_SexoCor",2017-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.344385810897831
+1190,0.43993759983549,"RendimentoRealMedio_SexoCor",2018-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.414960468572524
+1191,0.441842665985131,"RendimentoRealMedio_SexoCor",2019-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.443786257499835
+1192,0.428885946580522,"RendimentoRealMedio_SexoCor",2020-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.247736551394857
+1193,0.450232819771528,"RendimentoRealMedio_SexoCor",2021-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.570738700678745
+1194,0.477393959590465,"RendimentoRealMedio_SexoCor",2022-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.981717229478606
+1195,0.478602248714131,"RendimentoRealMedio_SexoCor",2023-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,1
+1196,0.46680176895751,"RendimentoRealMedio_SexoCor",2024-01-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.82144549743353
+1197,0.416308582371108,"RendimentoRealMedio_SexoCor",2012-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.0574269151489919
+1198,0.415266744330904,"RendimentoRealMedio_SexoCor",2013-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.0416627363308315
+1199,0.419665319359974,"RendimentoRealMedio_SexoCor",2014-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.108218113104918
+1200,0.420860629433773,"RendimentoRealMedio_SexoCor",2015-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.12630449603525
+1201,0.43664696972249,"RendimentoRealMedio_SexoCor",2016-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.365169541841151
+1202,0.438102472146077,"RendimentoRealMedio_SexoCor",2017-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.387192927041406
+1203,0.432662916055142,"RendimentoRealMedio_SexoCor",2018-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.304886338493227
+1204,0.437707096740777,"RendimentoRealMedio_SexoCor",2019-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.381210453423691
+1205,0.449702866743531,"RendimentoRealMedio_SexoCor",2020-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.562719916591216
+1206,0.458920232183191,"RendimentoRealMedio_SexoCor",2021-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.702189000475576
+1207,0.459723079406619,"RendimentoRealMedio_SexoCor",2022-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.714336980013071
+1208,0.474207001237198,"RendimentoRealMedio_SexoCor",2023-04-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.933494972824306
+1209,0.413183696034287,"RendimentoRealMedio_SexoCor",2012-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.0101438777678403
+1210,0.425477574286087,"RendimentoRealMedio_SexoCor",2013-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.196164053314623
+1211,0.413967273978493,"RendimentoRealMedio_SexoCor",2014-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.0220002914845159
+1212,0.424677573916441,"RendimentoRealMedio_SexoCor",2015-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.184059149869915
+1213,0.432546802573462,"RendimentoRealMedio_SexoCor",2016-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.303129411199572
+1214,0.432558572582729,"RendimentoRealMedio_SexoCor",2017-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.303307504649433
+1215,0.433652581048443,"RendimentoRealMedio_SexoCor",2018-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.319861080557181
+1216,0.432088715837843,"RendimentoRealMedio_SexoCor",2019-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.296198044772299
+1217,0.447084051244055,"RendimentoRealMedio_SexoCor",2020-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.523094298949701
+1218,0.464045335490724,"RendimentoRealMedio_SexoCor",2021-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.779737565495984
+1219,0.468931053938386,"RendimentoRealMedio_SexoCor",2022-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.853663968921459
+1220,0.466421658451305,"RendimentoRealMedio_SexoCor",2023-07-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.81569399887114
+1221,0.412513297794352,"RendimentoRealMedio_SexoCor",2012-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0
+1222,0.419523392944963,"RendimentoRealMedio_SexoCor",2013-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.106070607159737
+1223,0.422980620835582,"RendimentoRealMedio_SexoCor",2014-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.158382345241577
+1224,0.433925804318666,"RendimentoRealMedio_SexoCor",2015-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.323995255278076
+1225,0.426023016259485,"RendimentoRealMedio_SexoCor",2016-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.204417202529536
+1226,0.437721892718977,"RendimentoRealMedio_SexoCor",2017-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.381434333179597
+1227,0.439043882109814,"RendimentoRealMedio_SexoCor",2018-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.40143751635074
+1228,0.432916054258898,"RendimentoRealMedio_SexoCor",2019-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.308716603616716
+1229,0.445632591405121,"RendimentoRealMedio_SexoCor",2020-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.501132082592298
+1230,0.47480283572035,"RendimentoRealMedio_SexoCor",2021-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.942510617268038
+1231,0.461264882012828,"RendimentoRealMedio_SexoCor",2022-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.737666183832337
+1232,0.461625158576463,"RendimentoRealMedio_SexoCor",2023-10-01,"pos","prop","trim","percent","qualidade","equidade","Diferença salarial entre homens e mulheres, brancos e não brancos",0,0.743117572583724
+1233,0.111696770024058,"PostosDirecao_MulheresNegras",2012-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.466145107285526
+1234,0.116922158469519,"PostosDirecao_MulheresNegras",2013-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.574492496268033
+1235,0.111262568787342,"PostosDirecao_MulheresNegras",2014-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.457142031096612
+1236,0.123480125034054,"PostosDirecao_MulheresNegras",2015-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.710470627218117
+1237,0.110620418617124,"PostosDirecao_MulheresNegras",2016-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.443827175176527
+1238,0.117159424084649,"PostosDirecao_MulheresNegras",2017-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.579412151555478
+1239,0.126011852658123,"PostosDirecao_MulheresNegras",2018-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.762965495407493
+1240,0.124226502325465,"PostosDirecao_MulheresNegras",2019-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.725946611743337
+1241,0.110224494895762,"PostosDirecao_MulheresNegras",2020-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.435617775646991
+1242,0.109949007991826,"PostosDirecao_MulheresNegras",2021-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.429905609546446
+1243,0.127080258071708,"PostosDirecao_MulheresNegras",2022-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.785118668926538
+1244,0.133462378336222,"PostosDirecao_MulheresNegras",2023-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.91745066185868
+1245,0.126789490480792,"PostosDirecao_MulheresNegras",2024-01-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.779089660824021
+1246,0.10997982073879,"PostosDirecao_MulheresNegras",2012-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.430544505719577
+1247,0.121626277205914,"PostosDirecao_MulheresNegras",2013-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.67203146162377
+1248,0.105882879572686,"PostosDirecao_MulheresNegras",2014-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.34559524638788
+1249,0.111434598385981,"PostosDirecao_MulheresNegras",2015-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.460709030571347
+1250,0.110100637984846,"PostosDirecao_MulheresNegras",2016-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.433049627260463
+1251,0.127745446275981,"PostosDirecao_MulheresNegras",2017-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.79891121389562
+1252,0.114832407495509,"PostosDirecao_MulheresNegras",2018-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.531161925915065
+1253,0.117570838271732,"PostosDirecao_MulheresNegras",2019-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.587942742807411
+1254,0.10254663385505,"PostosDirecao_MulheresNegras",2020-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.276418855717073
+1255,0.108942252856401,"PostosDirecao_MulheresNegras",2021-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.409030742269778
+1256,0.128717090386705,"PostosDirecao_MulheresNegras",2022-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.819058061066116
+1257,0.137443575869037,"PostosDirecao_MulheresNegras",2023-04-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,1
+1258,0.116282617769221,"PostosDirecao_MulheresNegras",2012-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.561231747187164
+1259,0.111892715609427,"PostosDirecao_MulheresNegras",2013-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.470207999983163
+1260,0.110145639055638,"PostosDirecao_MulheresNegras",2014-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.433982715503112
+1261,0.100853878836891,"PostosDirecao_MulheresNegras",2015-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.241319917462276
+1262,0.117465489288978,"PostosDirecao_MulheresNegras",2016-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.585758352626185
+1263,0.12225100896779,"PostosDirecao_MulheresNegras",2017-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.684985150315087
+1264,0.123496810301065,"PostosDirecao_MulheresNegras",2018-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.710816592907364
+1265,0.125909414403577,"PostosDirecao_MulheresNegras",2019-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.760841458596101
+1266,0.100161136441033,"PostosDirecao_MulheresNegras",2020-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.226956041817031
+1267,0.12526664512932,"PostosDirecao_MulheresNegras",2021-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.747513765677037
+1268,0.123460032815573,"PostosDirecao_MulheresNegras",2022-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.710054019068502
+1269,0.134229617752499,"PostosDirecao_MulheresNegras",2023-07-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.933359218389111
+1270,0.121477763665582,"PostosDirecao_MulheresNegras",2012-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.668952062935717
+1271,0.114087888692379,"PostosDirecao_MulheresNegras",2013-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.515724476774305
+1272,0.110361116506225,"PostosDirecao_MulheresNegras",2014-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.438450597537028
+1273,0.110297311297805,"PostosDirecao_MulheresNegras",2015-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.43712760924478
+1274,0.120722559644438,"PostosDirecao_MulheresNegras",2016-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.653293057926986
+1275,0.117012152034808,"PostosDirecao_MulheresNegras",2017-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.576358494925561
+1276,0.130022327632302,"PostosDirecao_MulheresNegras",2018-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.846121895466025
+1277,0.122526561280939,"PostosDirecao_MulheresNegras",2019-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.69069867266264
+1278,0.0892154783160389,"PostosDirecao_MulheresNegras",2020-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0
+1279,0.121125343491983,"PostosDirecao_MulheresNegras",2021-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.661644700806997
+1280,0.130883860592726,"PostosDirecao_MulheresNegras",2022-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.863985609859429
+1281,0.127399451847631,"PostosDirecao_MulheresNegras",2023-10-01,"pos","prop","trim","percent","qualidade","equidade","Porcentagem de mulheres e negros em postos de direção",0,0.791737088315199
+1282,0.488773747841105,"GrevesPropositivas",2012-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,1
+1283,0.474876933494632,"GrevesPropositivas",2012-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.952424112459701
+1284,0.460980119148159,"GrevesPropositivas",2012-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.904848224919401
+1285,0.447083304801686,"GrevesPropositivas",2012-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.857272337379102
+1286,0.433186490455213,"GrevesPropositivas",2013-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.809696449838802
+1287,0.42452264712243,"GrevesPropositivas",2013-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.780035692647218
+1288,0.415858803789647,"GrevesPropositivas",2013-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.750374935455634
+1289,0.407194960456865,"GrevesPropositivas",2013-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.720714178264054
+1290,0.398531117124082,"GrevesPropositivas",2014-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.69105342107247
+1291,0.383447694066237,"GrevesPropositivas",2014-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.639415166345053
+1292,0.368364271008393,"GrevesPropositivas",2014-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.587776911617639
+1293,0.353280847950548,"GrevesPropositivas",2014-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.536138656890223
+1294,0.338197424892704,"GrevesPropositivas",2015-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.484500402162809
+1295,0.328137864587895,"GrevesPropositivas",2015-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.450061393492602
+1296,0.318078304283087,"GrevesPropositivas",2015-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.415622384822397
+1297,0.308018743978278,"GrevesPropositivas",2015-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.381183376152189
+1298,0.297959183673469,"GrevesPropositivas",2016-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.346744367481981
+1299,0.294717987979066,"GrevesPropositivas",2016-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.335648100524068
+1300,0.291476792284663,"GrevesPropositivas",2016-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.324551833566155
+1301,0.28823559659026,"GrevesPropositivas",2016-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.313455566608242
+1302,0.284994400895857,"GrevesPropositivas",2017-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.302359299650329
+1303,0.294218507481122,"GrevesPropositivas",2017-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.33393812387717
+1304,0.303442614066386,"GrevesPropositivas",2017-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.365516948104006
+1305,0.312666720651651,"GrevesPropositivas",2017-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.397095772330847
+1306,0.321890827236916,"GrevesPropositivas",2018-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.428674596557687
+1307,0.317979444731675,"GrevesPropositivas",2018-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.415283938126413
+1308,0.314068062226434,"GrevesPropositivas",2018-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.40189327969514
+1309,0.310156679721193,"GrevesPropositivas",2018-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.388502621263867
+1310,0.306245297215952,"GrevesPropositivas",2019-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.375111962832593
+1311,0.278852947981216,"GrevesPropositivas",2019-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.281333972124445
+1312,0.25146059874648,"GrevesPropositivas",2019-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.187555981416297
+1313,0.224068249511744,"GrevesPropositivas",2019-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.0937779907081483
+1314,0.196675900277008,"GrevesPropositivas",2020-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0
+1315,0.215089972172247,"GrevesPropositivas",2020-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.0630407654448679
+1316,0.233504044067485,"GrevesPropositivas",2020-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.126081530889732
+1317,0.251918115962723,"GrevesPropositivas",2020-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.189122296334597
+1318,0.270332187857961,"GrevesPropositivas",2021-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.252163061779461
+1319,0.297125931724416,"GrevesPropositivas",2021-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.343891720822645
+1320,0.323919675590872,"GrevesPropositivas",2021-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.435620379865833
+1321,0.350713419457327,"GrevesPropositivas",2021-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.527349038909017
+1322,0.377507163323782,"GrevesPropositivas",2022-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.619077697952201
+1323,0.380620056124198,"GrevesPropositivas",2022-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.629734718626524
+1324,0.383732948924615,"GrevesPropositivas",2022-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.640391739300851
+1325,0.386845841725031,"GrevesPropositivas",2022-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.651048759975175
+1326,0.389958734525447,"GrevesPropositivas",2023-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Greves propositivas sobre defensivas",0,0.661705780649498
+1477,0.905920414267924,"ReajustesAcimaINPC_MM",2012-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.983512129037271
+1480,0.916597265169071,"ReajustesAcimaINPC_MM",2012-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.997681600657202
+1483,0.918344204277058,"ReajustesAcimaINPC_MM",2012-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,1
+1486,0.911161231591887,"ReajustesAcimaINPC_MM",2012-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.990467327065667
+1489,0.895048347113556,"ReajustesAcimaINPC_MM",2013-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.9690835818542
+1492,0.880927351061024,"ReajustesAcimaINPC_MM",2013-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.950343313336446
+1495,0.874259143543768,"ReajustesAcimaINPC_MM",2013-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.941493795997825
+1498,0.875043724561788,"ReajustesAcimaINPC_MM",2013-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.942535029838337
+1501,0.883281094115085,"ReajustesAcimaINPC_MM",2014-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.953467014857983
+1504,0.875535803649923,"ReajustesAcimaINPC_MM",2014-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.943188078264193
+1507,0.840090128889434,"ReajustesAcimaINPC_MM",2014-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.896147383660682
+1510,0.776944069833617,"ReajustesAcimaINPC_MM",2014-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.81234493104745
+1513,0.686097626482473,"ReajustesAcimaINPC_MM",2015-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.691780720424497
+1516,0.589471346835793,"ReajustesAcimaINPC_MM",2015-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.563545968448508
+1519,0.498025504893471,"ReajustesAcimaINPC_MM",2015-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.442186283447823
+1522,0.411760100655509,"ReajustesAcimaINPC_MM",2015-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.327701665422445
+1525,0.330675134121905,"ReajustesAcimaINPC_MM",2016-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.220092114372372
+1528,0.282257922915067,"ReajustesAcimaINPC_MM",2016-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.155836623079727
+1531,0.280252125846195,"ReajustesAcimaINPC_MM",2016-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.153174687935567
+1534,0.32465774291529,"ReajustesAcimaINPC_MM",2016-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.212106308939892
+1537,0.415474774122353,"ReajustesAcimaINPC_MM",2017-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.332631486092705
+1540,0.506950393130561,"ReajustesAcimaINPC_MM",2017-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.454030688858872
+1543,0.576208186771501,"ReajustesAcimaINPC_MM",2017-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.545944151970823
+1546,0.623248155045176,"ReajustesAcimaINPC_MM",2017-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.608371875428562
+1549,0.648070297951583,"ReajustesAcimaINPC_MM",2018-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.641313859232085
+1552,0.696750465549348,"ReajustesAcimaINPC_MM",2018-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.705918325438122
+1555,0.721743249534451,"ReajustesAcimaINPC_MM",2018-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.739086770577873
+1558,0.71604864990689,"ReajustesAcimaINPC_MM",2018-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.731529348585501
+1561,0.701916666666667,"ReajustesAcimaINPC_MM",2019-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.712774498741698
+1564,0.62925,"ReajustesAcimaINPC_MM",2019-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.616337049105893
+1567,0.569333333333333,"ReajustesAcimaINPC_MM",2019-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.536820390518572
+1570,0.592583333333333,"ReajustesAcimaINPC_MM",2019-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.567675950665808
+1573,0.558833333333333,"ReajustesAcimaINPC_MM",2020-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.522885621419821
+1576,0.522333333333333,"ReajustesAcimaINPC_MM",2020-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.474445709790827
+1579,0.502166666666667,"ReajustesAcimaINPC_MM",2020-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.447682105648781
+1582,0.4145,"ReajustesAcimaINPC_MM",2020-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.33133784301476
+1585,0.329666666666667,"ReajustesAcimaINPC_MM",2021-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.218753756169291
+1588,0.28225,"ReajustesAcimaINPC_MM",2021-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.155826108413818
+1591,0.22575,"ReajustesAcimaINPC_MM",2021-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.0808437794538687
+1594,0.164833333333333,"ReajustesAcimaINPC_MM",2021-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0
+1597,0.177416666666667,"ReajustesAcimaINPC_MM",2022-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.0166996042373936
+1600,0.169833333333333,"ReajustesAcimaINPC_MM",2022-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.00663560433273885
+1603,0.17775,"ReajustesAcimaINPC_MM",2022-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.0171419778595758
+1606,0.259416666666667,"ReajustesAcimaINPC_MM",2022-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.125523515294311
+1609,0.353166666666667,"ReajustesAcimaINPC_MM",2023-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.249941096533164
+1612,0.474916666666667,"ReajustesAcimaINPC_MM",2023-04-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.411518062035355
+1615,0.633666666666667,"ReajustesAcimaINPC_MM",2023-07-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.622198499599813
+1618,0.70675,"ReajustesAcimaINPC_MM",2023-10-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.719188916263345
+1621,0.756166666666667,"ReajustesAcimaINPC_MM",2024-01-01,"pos","prop","mensal","percent","qualidade","dialogo_social","Proporção de acordos acima de inflação",0,0.784770805751914
+1639,0.44,"ConfiancaSindicatos",2012-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.642857142857143
+1640,0.4225,"ConfiancaSindicatos",2012-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.517857142857143
+1641,0.405,"ConfiancaSindicatos",2012-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.392857142857143
+1642,0.3875,"ConfiancaSindicatos",2012-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.267857142857143
+1643,0.37,"ConfiancaSindicatos",2013-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.142857142857143
+1644,0.385,"ConfiancaSindicatos",2013-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.25
+1645,0.4,"ConfiancaSindicatos",2013-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.357142857142857
+1646,0.415,"ConfiancaSindicatos",2013-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.464285714285714
+1647,0.43,"ConfiancaSindicatos",2014-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.571428571428572
+1648,0.425,"ConfiancaSindicatos",2014-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.535714285714286
+1649,0.42,"ConfiancaSindicatos",2014-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.5
+1650,0.415,"ConfiancaSindicatos",2014-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.464285714285714
+1651,0.41,"ConfiancaSindicatos",2015-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.428571428571428
+1652,0.4075,"ConfiancaSindicatos",2015-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.410714285714286
+1653,0.405,"ConfiancaSindicatos",2015-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.392857142857143
+1654,0.4025,"ConfiancaSindicatos",2015-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.375
+1655,0.4,"ConfiancaSindicatos",2016-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.357142857142857
+1656,0.41,"ConfiancaSindicatos",2016-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.428571428571428
+1657,0.42,"ConfiancaSindicatos",2016-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.5
+1658,0.43,"ConfiancaSindicatos",2016-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.571428571428572
+1659,0.44,"ConfiancaSindicatos",2017-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.642857142857143
+1660,0.4175,"ConfiancaSindicatos",2017-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.482142857142857
+1661,0.395,"ConfiancaSindicatos",2017-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.321428571428572
+1662,0.3725,"ConfiancaSindicatos",2017-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.160714285714286
+1663,0.35,"ConfiancaSindicatos",2018-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0
+1664,0.375,"ConfiancaSindicatos",2018-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.178571428571429
+1665,0.4,"ConfiancaSindicatos",2018-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.357142857142857
+1666,0.425,"ConfiancaSindicatos",2018-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.535714285714286
+1667,0.45,"ConfiancaSindicatos",2019-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.714285714285714
+1668,0.46,"ConfiancaSindicatos",2019-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.785714285714286
+1669,0.47,"ConfiancaSindicatos",2019-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.857142857142857
+1670,0.48,"ConfiancaSindicatos",2019-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.928571428571428
+1671,0.49,"ConfiancaSindicatos",2020-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,1
+1672,0.4825,"ConfiancaSindicatos",2020-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.946428571428571
+1673,0.475,"ConfiancaSindicatos",2020-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.892857142857143
+1674,0.4675,"ConfiancaSindicatos",2020-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.839285714285715
+1675,0.46,"ConfiancaSindicatos",2021-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.785714285714286
+1676,0.455,"ConfiancaSindicatos",2021-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.75
+1677,0.45,"ConfiancaSindicatos",2021-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.714285714285714
+1678,0.445,"ConfiancaSindicatos",2021-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.678571428571429
+1679,0.44,"ConfiancaSindicatos",2022-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.642857142857143
+1680,0.45,"ConfiancaSindicatos",2022-04-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.714285714285714
+1681,0.46,"ConfiancaSindicatos",2022-07-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.785714285714286
+1682,0.47,"ConfiancaSindicatos",2022-10-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.857142857142857
+1683,0.48,"ConfiancaSindicatos",2023-01-01,"pos","prop","anual","percent","qualidade","dialogo_social","Indice de confiança social nos sindicatos",0,0.928571428571428
+1684,-3.36420707742452,"AcidentesTrabalho_ponderadoSegurada",2012-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0
+1687,-3.33013977012557,"AcidentesTrabalho_ponderadoSegurada",2012-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0228595554918774
+1690,-3.2387577194876,"AcidentesTrabalho_ponderadoSegurada",2012-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0841779637590493
+1693,-3.2870839382598,"AcidentesTrabalho_ponderadoSegurada",2012-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0517505144733888
+1696,-3.28211588737453,"AcidentesTrabalho_ponderadoSegurada",2013-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0550841338258582
+1699,-3.26698773502518,"AcidentesTrabalho_ponderadoSegurada",2013-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0652352982570486
+1702,-3.25670806077734,"AcidentesTrabalho_ponderadoSegurada",2013-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0721330780505858
+1705,-3.2587998824278,"AcidentesTrabalho_ponderadoSegurada",2013-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0707294416352338
+1708,-3.26414197170244,"AcidentesTrabalho_ponderadoSegurada",2014-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0671448382163438
+1711,-3.25283854506393,"AcidentesTrabalho_ponderadoSegurada",2014-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0747295676528068
+1714,-3.22968122015537,"AcidentesTrabalho_ponderadoSegurada",2014-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.0902683993293266
+1717,-3.19860196461863,"AcidentesTrabalho_ponderadoSegurada",2014-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.111122937680535
+1720,-3.13121733072884,"AcidentesTrabalho_ponderadoSegurada",2015-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.156338802972917
+1723,-3.01702602325665,"AcidentesTrabalho_ponderadoSegurada",2015-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.232962485230628
+1726,-2.89646460989544,"AcidentesTrabalho_ponderadoSegurada",2015-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.313860581893368
+1729,-2.72795500553366,"AcidentesTrabalho_ponderadoSegurada",2015-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.426932466853913
+1732,-2.61292536313381,"AcidentesTrabalho_ponderadoSegurada",2016-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.504118681501738
+1735,-2.55909308537749,"AcidentesTrabalho_ponderadoSegurada",2016-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.540240759769505
+1738,-2.50974865941098,"AcidentesTrabalho_ponderadoSegurada",2016-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.57335143780748
+1741,-2.44681768547192,"AcidentesTrabalho_ponderadoSegurada",2016-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.61557884598782
+1744,-2.42403300006379,"AcidentesTrabalho_ponderadoSegurada",2017-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.630867632268506
+1747,-2.3575829584806,"AcidentesTrabalho_ponderadoSegurada",2017-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.675456375361075
+1750,-2.27975176884595,"AcidentesTrabalho_ponderadoSegurada",2017-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.72768199985318
+1753,-2.26126334498019,"AcidentesTrabalho_ponderadoSegurada",2017-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.740087945166319
+1756,-2.23864026827713,"AcidentesTrabalho_ponderadoSegurada",2018-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.755268290144936
+1759,-2.25058566896152,"AcidentesTrabalho_ponderadoSegurada",2018-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.747252788731182
+1762,-2.2669783134915,"AcidentesTrabalho_ponderadoSegurada",2018-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.736253135485818
+1765,-2.27176338903232,"AcidentesTrabalho_ponderadoSegurada",2018-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.733042294696486
+1768,-2.26986898967273,"AcidentesTrabalho_ponderadoSegurada",2019-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.734313458481293
+1771,-2.25765489720351,"AcidentesTrabalho_ponderadoSegurada",2019-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.742509255176726
+1774,-2.25625399175602,"AcidentesTrabalho_ponderadoSegurada",2019-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.743449278863798
+1777,-2.25303421991791,"AcidentesTrabalho_ponderadoSegurada",2019-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.745609782843716
+1780,-2.15692780118694,"AcidentesTrabalho_ponderadoSegurada",2020-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.810098296503671
+1783,-1.98619306146303,"AcidentesTrabalho_ponderadoSegurada",2020-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.924663272915242
+1786,-1.91583952048647,"AcidentesTrabalho_ponderadoSegurada",2020-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.971871309050616
+1789,-1.87391968705706,"AcidentesTrabalho_ponderadoSegurada",2020-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,1
+1792,-1.98422721507629,"AcidentesTrabalho_ponderadoSegurada",2021-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.925982378477998
+1795,-2.15582031396872,"AcidentesTrabalho_ponderadoSegurada",2021-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.810841433180112
+1798,-2.21368317885798,"AcidentesTrabalho_ponderadoSegurada",2021-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.772014784532838
+1801,-2.20873749405979,"AcidentesTrabalho_ponderadoSegurada",2021-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.775333395983325
+1804,-2.20623597962083,"AcidentesTrabalho_ponderadoSegurada",2022-01-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.777011940977484
+1807,-2.21954358451933,"AcidentesTrabalho_ponderadoSegurada",2022-04-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.768082384849912
+1810,-2.24095494592617,"AcidentesTrabalho_ponderadoSegurada",2022-07-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.753715114788289
+1813,-2.24480755797476,"AcidentesTrabalho_ponderadoSegurada",2022-10-01,"neg","prop","mensal","percent","qualidade","saude_seguranca","Acidentes de trabalho",0,0.751129967739813
+1816,-0.00823734640700101,"AfastamentoRemunerado",2012-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.22646359312904
+1817,-0.00798241978800173,"AfastamentoRemunerado",2012-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.298301750227205
+1818,-0.00783379817531288,"AfastamentoRemunerado",2012-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.340183224992123
+1819,-0.007811513563976,"AfastamentoRemunerado",2012-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.346463014118793
+1820,-0.00754152616675816,"AfastamentoRemunerado",2013-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.422545288821988
+1821,-0.00767294094471943,"AfastamentoRemunerado",2013-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.385512689004592
+1822,-0.00783798738878499,"AfastamentoRemunerado",2013-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.33900270733293
+1823,-0.00731506680517738,"AfastamentoRemunerado",2013-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.486361391108412
+1824,-0.00775937239144196,"AfastamentoRemunerado",2014-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.36115636296752
+1825,-0.00785650070795029,"AfastamentoRemunerado",2014-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.333785665912045
+1826,-0.00841375919744908,"AfastamentoRemunerado",2014-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.176750582365068
+1827,-0.00904098058213618,"AfastamentoRemunerado",2014-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0
+1828,-0.00816627662180365,"AfastamentoRemunerado",2015-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.246491012839004
+1829,-0.00857331627758998,"AfastamentoRemunerado",2015-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.13178749991302
+1830,-0.00854035416247134,"AfastamentoRemunerado",2015-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.141076202730623
+1831,-0.00731802114661225,"AfastamentoRemunerado",2015-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.485528859594234
+1832,-0.00773383047024864,"AfastamentoRemunerado",2016-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.368354059914498
+1833,-0.00752178950812398,"AfastamentoRemunerado",2016-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.428107066517549
+1834,-0.00770321550161505,"AfastamentoRemunerado",2016-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.376981338363837
+1835,-0.00794832236827083,"AfastamentoRemunerado",2016-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.307910381153572
+1836,-0.00772120353110313,"AfastamentoRemunerado",2017-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.371912323235783
+1837,-0.0078480155177065,"AfastamentoRemunerado",2017-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.336176787059511
+1838,-0.00750203532126215,"AfastamentoRemunerado",2017-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.433673783656377
+1839,-0.00684342188786016,"AfastamentoRemunerado",2017-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.619270625137367
+1840,-0.00656710199082368,"AfastamentoRemunerado",2018-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.697137394212242
+1841,-0.00771302706290384,"AfastamentoRemunerado",2018-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.374216446709881
+1842,-0.0065157940511768,"AfastamentoRemunerado",2018-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.711595938569848
+1843,-0.0065231134035718,"AfastamentoRemunerado",2018-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.70953334977754
+1844,-0.00624554415067104,"AfastamentoRemunerado",2019-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.787752186530565
+1845,-0.00671541201865933,"AfastamentoRemunerado",2019-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.65534372385834
+1846,-0.00667732018615338,"AfastamentoRemunerado",2019-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.666077977732892
+1847,-0.00606711630877652,"AfastamentoRemunerado",2019-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.838033037494745
+1848,-0.00676893597657103,"AfastamentoRemunerado",2020-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.640260706980502
+1849,-0.00819814413344694,"AfastamentoRemunerado",2020-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.237510768575989
+1850,-0.007523222074676,"AfastamentoRemunerado",2020-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.427703370185556
+1851,-0.00721271102104284,"AfastamentoRemunerado",2020-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.51520518517522
+1852,-0.00732098632550629,"AfastamentoRemunerado",2021-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.484693274091039
+1853,-0.0071713096589087,"AfastamentoRemunerado",2021-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.526872062368138
+1854,-0.00694408649079548,"AfastamentoRemunerado",2021-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.590903404843623
+1855,-0.00636103695206279,"AfastamentoRemunerado",2021-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.755206389459011
+1856,-0.00724280364873722,"AfastamentoRemunerado",2022-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.506725102066239
+1857,-0.00646379530155831,"AfastamentoRemunerado",2022-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.726249152732673
+1858,-0.00606551015517103,"AfastamentoRemunerado",2022-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.838485650546641
+1859,-0.00557795923892451,"AfastamentoRemunerado",2022-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.975877184832713
+1860,-0.00549235643451323,"AfastamentoRemunerado",2023-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,1
+1861,-0.0055141073415004,"AfastamentoRemunerado",2023-04-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.99387060841545
+1862,-0.00593898082276,"AfastamentoRemunerado",2023-07-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.8741415349535
+1863,-0.00593083066281591,"AfastamentoRemunerado",2023-10-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.876438244778222
+1864,-0.00662590306547421,"AfastamentoRemunerado",2024-01-01,"neg","prop","trim","percent","qualidade","saude_seguranca","Adoecimento – Absenteísmo",0,0.6805672892351
