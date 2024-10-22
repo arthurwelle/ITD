@@ -1,115 +1,127 @@
-Preload;variavel;W1;W2;W3;W4;
-Equitativo;TxCompostaSubutilizacao;1;1;1;1;
-Equitativo;PrevidenciaTodosTrab;1;1;1;1;
-Equitativo;CarteiraTrabAssalariados;1;1;1;1;
-Equitativo;AcessoSeguroDesempregoAssal;1;1;1;1;
-Equitativo;PropoRendaApposentadoriaAcima65anos;1;1;1;1;
-Equitativo;TxOcupadosRendaAbaixoPOF;1;1;1;1;
-Equitativo;RendimentoRealMedio;1;1;1;1;
-Equitativo;MassaRendaHabTodosTrab_noPIB;1;1;1;1;
-Equitativo;TxSubocupadasJornadaAcima44h;1;1;1;1;
-Equitativo;Gini_rendahabTodosTrabalhos;1;1;1;1;
-Equitativo;RendimentoRealMedio_SexoCor;1;1;1;1;
-Equitativo;PostosDirecao_MulheresNegras;1;1;1;1;
-Equitativo;GrevesPropositivas;1;1;1;1;
-Equitativo;ConfiancaSindicatos;1;1;1;1;
-Equitativo;AcidentesTrabalho_ponderadoSegurada;1;1;1;1;
-Equitativo;AfastamentoRemunerado;1;1;1;1;
-Equitativo;ReajustesAcimaINPC_MM;1;1;1;1;
-Equitativo;Admitidos_ContratosAtipicos_MM;1;1;1;1;
-Equitativo;SalarioMinimoReal_MM;1;1;1;1;
-Dimensoes;TxCompostaSubutilizacao;0.3333333;0.3333333;0.3333333;0.3333333;
-Dimensoes;PrevidenciaTodosTrab;0.0833333;0.0833333;0.0833333;0.0833333;
-Dimensoes;CarteiraTrabAssalariados;0.0833333;0.0833333;0.0833333;0.0833333;
-Dimensoes;AcessoSeguroDesempregoAssal;0.0833333;0.0833333;0.0833333;0.0833333;
-Dimensoes;PropoRendaApposentadoriaAcima65anos;0.0833333;0.0833333;0.0833333;0.0833333;
-Dimensoes;TxOcupadosRendaAbaixoPOF;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;RendimentoRealMedio;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;MassaRendaHabTodosTrab_noPIB;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;TxSubocupadasJornadaAcima44h;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;Gini_rendahabTodosTrabalhos;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;RendimentoRealMedio_SexoCor;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;PostosDirecao_MulheresNegras;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;GrevesPropositivas;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;ConfiancaSindicatos;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;AcidentesTrabalho_ponderadoSegurada;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;AfastamentoRemunerado;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;ReajustesAcimaINPC_MM;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;Admitidos_ContratosAtipicos_MM;0.0238095;0.0238095;0.0238095;0.0238095;
-Dimensoes;SalarioMinimoReal_MM;0.0238095;0.0238095;0.0238095;0.0238095;
-PCA - sem reducao;TxCompostaSubutilizacao;0.336354577339358;0.336354577339358;0.336354577339358;0.336354577339358;
-PCA - sem reducao;PrevidenciaTodosTrab;0.384083993469433;0.384083993469433;0.384083993469433;0.384083993469433;
-PCA - sem reducao;CarteiraTrabAssalariados;0.403326188269915;0.403326188269915;0.403326188269915;0.403326188269915;
-PCA - sem reducao;AcessoSeguroDesempregoAssal;0.0228904343771068;0.0228904343771068;0.0228904343771068;0.0228904343771068;
-PCA - sem reducao;PropoRendaApposentadoriaAcima65anos;0.242275231968859;0.242275231968859;0.242275231968859;0.242275231968859;
-PCA - sem reducao;TxOcupadosRendaAbaixoPOF;0.00554663538134613;0.00554663538134613;0.00554663538134613;0.00554663538134613;
-PCA - sem reducao;RendimentoRealMedio;0.083125697928553;0.083125697928553;0.083125697928553;0.083125697928553;
-PCA - sem reducao;MassaRendaHabTodosTrab_noPIB;0.0831198614041707;0.0831198614041707;0.0831198614041707;0.0831198614041707;
-PCA - sem reducao;TxSubocupadasJornadaAcima44h;0.0338867107348758;0.0338867107348758;0.0338867107348758;0.0338867107348758;
-PCA - sem reducao;Gini_rendahabTodosTrabalhos;0.412764082977247;0.412764082977247;0.412764082977247;0.412764082977247;
-PCA - sem reducao;RendimentoRealMedio_SexoCor;0.163248867705699;0.163248867705699;0.163248867705699;0.163248867705699;
-PCA - sem reducao;PostosDirecao_MulheresNegras;0.0943396446704543;0.0943396446704543;0.0943396446704543;0.0943396446704543;
-PCA - sem reducao;GrevesPropositivas;0.0419469662546395;0.0419469662546395;0.0419469662546395;0.0419469662546395;
-PCA - sem reducao;ConfiancaSindicatos;0.227612680050049;0.227612680050049;0.227612680050049;0.227612680050049;
-PCA - sem reducao;AcidentesTrabalho_ponderadoSegurada;0.232335062965835;0.232335062965835;0.232335062965835;0.232335062965835;
-PCA - sem reducao;AfastamentoRemunerado;0.31997939462705;0.31997939462705;0.31997939462705;0.31997939462705;
-PCA - sem reducao;ReajustesAcimaINPC_MM;0.0103977533604825;0.0103977533604825;0.0103977533604825;0.0103977533604825;
-PCA - sem reducao;Admitidos_ContratosAtipicos_MM;0.251775567361621;0.251775567361621;0.251775567361621;0.251775567361621;
-PCA - sem reducao;SalarioMinimoReal_MM;0.151977199083792;0.151977199083792;0.151977199083792;0.151977199083792;
-PCA - com reducao;TxCompostaSubutilizacao;0;0;0;0;
-PCA - com reducao;PrevidenciaTodosTrab;0.139283280090317;0.139283280090317;0.139283280090317;0.139283280090317;
-PCA - com reducao;CarteiraTrabAssalariados;0.119519713933284;0.119519713933284;0.119519713933284;0.119519713933284;
-PCA - com reducao;AcessoSeguroDesempregoAssal;0.118104423507513;0.118104423507513;0.118104423507513;0.118104423507513;
-PCA - com reducao;PropoRendaApposentadoriaAcima65anos;0;0;0;0;
-PCA - com reducao;TxOcupadosRendaAbaixoPOF;0;0;0;0;
-PCA - com reducao;RendimentoRealMedio;0.0752981381789276;0.0752981381789276;0.0752981381789276;0.0752981381789276;
-PCA - com reducao;MassaRendaHabTodosTrab_noPIB;0.0107835160896749;0.0107835160896749;0.0107835160896749;0.0107835160896749;
-PCA - com reducao;TxSubocupadasJornadaAcima44h;0.157026791847314;0.157026791847314;0.157026791847314;0.157026791847314;
-PCA - com reducao;Gini_rendahabTodosTrabalhos;0.0516890596141855;0.0516890596141855;0.0516890596141855;0.0516890596141855;
-PCA - com reducao;RendimentoRealMedio_SexoCor;0;0;0;0;
-PCA - com reducao;PostosDirecao_MulheresNegras;0;0;0;0;
-PCA - com reducao;GrevesPropositivas;0;0;0;0;
-PCA - com reducao;ConfiancaSindicatos;0;0;0;0;
-PCA - com reducao;AcidentesTrabalho_ponderadoSegurada;0.189833960364283;0.189833960364283;0.189833960364283;0.189833960364283;
-PCA - com reducao;AfastamentoRemunerado;0;0;0;0;
-PCA - com reducao;ReajustesAcimaINPC_MM;0.138461116374501;0.138461116374501;0.138461116374501;0.138461116374501;
-PCA - com reducao;Admitidos_ContratosAtipicos_MM;0;0;0;0;
-PCA - com reducao;SalarioMinimoReal_MM;0;0;0;0;
-Arthur 4 pesos;TxCompostaSubutilizacao;0.3333333;114;1;1;
-Arthur 4 pesos;PrevidenciaTodosTrab;0.0833333;95;1;3;
-Arthur 4 pesos;CarteiraTrabAssalariados;0.0833333;70;1;1;
-Arthur 4 pesos;AcessoSeguroDesempregoAssal;0.0833333;70;0.5;1;
-Arthur 4 pesos;PropoRendaApposentadoriaAcima65anos;0.0833333;30;1;1;
-Arthur 4 pesos;TxOcupadosRendaAbaixoPOF;0.0238095;95;1;1;
-Arthur 4 pesos;RendimentoRealMedio;0.0238095;95;0.5;1;
-Arthur 4 pesos;MassaRendaHabTodosTrab_noPIB;0.0238095;95;1;3;
-Arthur 4 pesos;TxSubocupadasJornadaAcima44h;0.0238095;95;1;1;
-Arthur 4 pesos;Gini_rendahabTodosTrabalhos;0.0238095;95;1;1;
-Arthur 4 pesos;RendimentoRealMedio_SexoCor;0.0238095;95;1;1;
-Arthur 4 pesos;PostosDirecao_MulheresNegras;0.0238095;95;1;1;
-Arthur 4 pesos;GrevesPropositivas;0.0238095;50;1;1;
-Arthur 4 pesos;ConfiancaSindicatos;0.0238095;114;0.5;1;
-Arthur 4 pesos;AcidentesTrabalho_ponderadoSegurada;0.0238095;50;1;1;
-Arthur 4 pesos;AfastamentoRemunerado;0.0238095;30;0.5;1;
-Arthur 4 pesos;ReajustesAcimaINPC_MM;0.0238095;50;1;1;
-Arthur 4 pesos;Admitidos_ContratosAtipicos_MM;0.0238095;50;1;1;
-Arthur 4 pesos;SalarioMinimoReal_MM;0.0238095;50;1;3;
-Arthur reduzido;TxCompostaSubutilizacao;0.3333333;0.3333333;0.3333333;0.3333333;
-Arthur reduzido;PrevidenciaTodosTrab;0.3333333;0.3333333;0.3333333;0.3333333;
-Arthur reduzido;CarteiraTrabAssalariados;0;0;0;0;
-Arthur reduzido;AcessoSeguroDesempregoAssal;0;0;0;0;
-Arthur reduzido;PropoRendaApposentadoriaAcima65anos;0;0;0;0;
-Arthur reduzido;TxOcupadosRendaAbaixoPOF;0.066666;0.066666;0.066666;0.066666;
-Arthur reduzido;RendimentoRealMedio;0;0;0;0;
-Arthur reduzido;MassaRendaHabTodosTrab_noPIB;0;0;0;0;
-Arthur reduzido;TxSubocupadasJornadaAcima44h;0;0;0;0;
-Arthur reduzido;Gini_rendahabTodosTrabalhos;0.066666;0.066666;0.066666;0.066666;
-Arthur reduzido;RendimentoRealMedio_SexoCor;0;0;0;0;
-Arthur reduzido;PostosDirecao_MulheresNegras;0.066666;0.066666;0.066666;0.066666;
-Arthur reduzido;GrevesPropositivas;0;0;0;0;
-Arthur reduzido;ConfiancaSindicatos;0;0;0;0;
-Arthur reduzido;AcidentesTrabalho_ponderadoSegurada;0.066666;0.066666;0.066666;0.066666;
-Arthur reduzido;AfastamentoRemunerado;0;0;0;0;
-Arthur reduzido;ReajustesAcimaINPC_MM;0.066666;0.066666;0.066666;0.066666;
-Arthur reduzido;Admitidos_ContratosAtipicos_MM;0;0;0;0;
-Arthur reduzido;SalarioMinimoReal_MM;0;0;0;0;
+Preload;variavel;W1;W2;W3;W4
+Equitativo;TxCompostaSubutilizacao;1;1;1;1
+Equitativo;PrevidenciaTodosTrab;1;1;1;1
+Equitativo;CarteiraTrabAssalariados;1;1;1;1
+Equitativo;AcessoSeguroDesempregoAssal;1;1;1;1
+Equitativo;PropoRendaApposentadoriaAcima65anos;1;1;1;1
+Equitativo;TxOcupadosRendaAbaixoPOF;1;1;1;1
+Equitativo;RendimentoRealMedio;1;1;1;1
+Equitativo;MassaRendaHabTodosTrab_noPIB;1;1;1;1
+Equitativo;TxSubocupadasJornadaAcima44h;1;1;1;1
+Equitativo;Gini_rendahabTodosTrabalhos;1;1;1;1
+Equitativo;RendimentoRealMedio_SexoCor;1;1;1;1
+Equitativo;PostosDirecao_MulheresNegras;1;1;1;1
+Equitativo;GrevesPropositivas;1;1;1;1
+Equitativo;ConfiancaSindicatos;1;1;1;1
+Equitativo;AcidentesTrabalho_ponderadoSegurada;1;1;1;1
+Equitativo;AfastamentoRemunerado;1;1;1;1
+Equitativo;ReajustesAcimaINPC_MM;1;1;1;1
+Equitativo;Admitidos_ContratosAtipicos_MM;1;1;1;1
+Equitativo;SalarioMinimoReal_MM;1;1;1;1
+Equitativo;Palma90_40_Hora_TrabPrinc;1;1;1;1
+Equitativo;TxJornadaAcima44h;1;1;1;1
+Dimensoes;TxCompostaSubutilizacao;0.3333333;0.3333333;0.3333333;0.3333333
+Dimensoes;PrevidenciaTodosTrab;0.0833333;0.0833333;0.0833333;0.0833333
+Dimensoes;CarteiraTrabAssalariados;0.0833333;0.0833333;0.0833333;0.0833333
+Dimensoes;AcessoSeguroDesempregoAssal;0.0833333;0.0833333;0.0833333;0.0833333
+Dimensoes;PropoRendaApposentadoriaAcima65anos;0.0833333;0.0833333;0.0833333;0.0833333
+Dimensoes;TxOcupadosRendaAbaixoPOF;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;RendimentoRealMedio;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;MassaRendaHabTodosTrab_noPIB;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;TxSubocupadasJornadaAcima44h;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;Gini_rendahabTodosTrabalhos;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;RendimentoRealMedio_SexoCor;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;PostosDirecao_MulheresNegras;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;GrevesPropositivas;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;ConfiancaSindicatos;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;AcidentesTrabalho_ponderadoSegurada;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;AfastamentoRemunerado;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;ReajustesAcimaINPC_MM;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;Admitidos_ContratosAtipicos_MM;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;SalarioMinimoReal_MM;0.0238095;0.0238095;0.0238095;0.0238095
+Dimensoes;Palma90_40_Hora_TrabPrinc;1;1;1;1
+Dimensoes;TxJornadaAcima44h;1;1;1;1
+PCA - sem reducao;TxCompostaSubutilizacao;0.336354577339358;0.336354577339358;0.336354577339358;0.336354577339358
+PCA - sem reducao;PrevidenciaTodosTrab;0.384083993469433;0.384083993469433;0.384083993469433;0.384083993469433
+PCA - sem reducao;CarteiraTrabAssalariados;0.403326188269915;0.403326188269915;0.403326188269915;0.403326188269915
+PCA - sem reducao;AcessoSeguroDesempregoAssal;0.0228904343771068;0.0228904343771068;0.0228904343771068;0.0228904343771068
+PCA - sem reducao;PropoRendaApposentadoriaAcima65anos;0.242275231968859;0.242275231968859;0.242275231968859;0.242275231968859
+PCA - sem reducao;TxOcupadosRendaAbaixoPOF;0.00554663538134613;0.00554663538134613;0.00554663538134613;0.00554663538134613
+PCA - sem reducao;RendimentoRealMedio;0.083125697928553;0.083125697928553;0.083125697928553;0.083125697928553
+PCA - sem reducao;MassaRendaHabTodosTrab_noPIB;0.0831198614041707;0.0831198614041707;0.0831198614041707;0.0831198614041707
+PCA - sem reducao;TxSubocupadasJornadaAcima44h;0.0338867107348758;0.0338867107348758;0.0338867107348758;0.0338867107348758
+PCA - sem reducao;Gini_rendahabTodosTrabalhos;0.412764082977247;0.412764082977247;0.412764082977247;0.412764082977247
+PCA - sem reducao;RendimentoRealMedio_SexoCor;0.163248867705699;0.163248867705699;0.163248867705699;0.163248867705699
+PCA - sem reducao;PostosDirecao_MulheresNegras;0.0943396446704543;0.0943396446704543;0.0943396446704543;0.0943396446704543
+PCA - sem reducao;GrevesPropositivas;0.0419469662546395;0.0419469662546395;0.0419469662546395;0.0419469662546395
+PCA - sem reducao;ConfiancaSindicatos;0.227612680050049;0.227612680050049;0.227612680050049;0.227612680050049
+PCA - sem reducao;AcidentesTrabalho_ponderadoSegurada;0.232335062965835;0.232335062965835;0.232335062965835;0.232335062965835
+PCA - sem reducao;AfastamentoRemunerado;0.31997939462705;0.31997939462705;0.31997939462705;0.31997939462705
+PCA - sem reducao;ReajustesAcimaINPC_MM;0.0103977533604825;0.0103977533604825;0.0103977533604825;0.0103977533604825
+PCA - sem reducao;Admitidos_ContratosAtipicos_MM;0.251775567361621;0.251775567361621;0.251775567361621;0.251775567361621
+PCA - sem reducao;SalarioMinimoReal_MM;0.151977199083792;0.151977199083792;0.151977199083792;0.151977199083792
+PCA - sem reducao;Palma90_40_Hora_TrabPrinc;1;1;1;1
+PCA - sem reducao;TxJornadaAcima44h;1;1;1;1
+PCA - com reducao;TxCompostaSubutilizacao;0;0;0;0
+PCA - com reducao;PrevidenciaTodosTrab;0.139283280090317;0.139283280090317;0.139283280090317;0.139283280090317
+PCA - com reducao;CarteiraTrabAssalariados;0.119519713933284;0.119519713933284;0.119519713933284;0.119519713933284
+PCA - com reducao;AcessoSeguroDesempregoAssal;0.118104423507513;0.118104423507513;0.118104423507513;0.118104423507513
+PCA - com reducao;PropoRendaApposentadoriaAcima65anos;0;0;0;0
+PCA - com reducao;TxOcupadosRendaAbaixoPOF;0;0;0;0
+PCA - com reducao;RendimentoRealMedio;0.0752981381789276;0.0752981381789276;0.0752981381789276;0.0752981381789276
+PCA - com reducao;MassaRendaHabTodosTrab_noPIB;0.0107835160896749;0.0107835160896749;0.0107835160896749;0.0107835160896749
+PCA - com reducao;TxSubocupadasJornadaAcima44h;0.157026791847314;0.157026791847314;0.157026791847314;0.157026791847314
+PCA - com reducao;Gini_rendahabTodosTrabalhos;0.0516890596141855;0.0516890596141855;0.0516890596141855;0.0516890596141855
+PCA - com reducao;RendimentoRealMedio_SexoCor;0;0;0;0
+PCA - com reducao;PostosDirecao_MulheresNegras;0;0;0;0
+PCA - com reducao;GrevesPropositivas;0;0;0;0
+PCA - com reducao;ConfiancaSindicatos;0;0;0;0
+PCA - com reducao;AcidentesTrabalho_ponderadoSegurada;0.189833960364283;0.189833960364283;0.189833960364283;0.189833960364283
+PCA - com reducao;AfastamentoRemunerado;0;0;0;0
+PCA - com reducao;ReajustesAcimaINPC_MM;0.138461116374501;0.138461116374501;0.138461116374501;0.138461116374501
+PCA - com reducao;Admitidos_ContratosAtipicos_MM;0;0;0;0
+PCA - com reducao;SalarioMinimoReal_MM;0;0;0;0
+PCA - com reducao;Palma90_40_Hora_TrabPrinc;1;1;1;1
+PCA - com reducao;TxJornadaAcima44h;1;1;1;1
+Arthur 4 pesos;TxCompostaSubutilizacao;0.3333333;114;1;1
+Arthur 4 pesos;PrevidenciaTodosTrab;0.0833333;95;1;3
+Arthur 4 pesos;CarteiraTrabAssalariados;0.0833333;70;1;1
+Arthur 4 pesos;AcessoSeguroDesempregoAssal;0.0833333;70;0.5;1
+Arthur 4 pesos;PropoRendaApposentadoriaAcima65anos;0.0833333;30;1;1
+Arthur 4 pesos;TxOcupadosRendaAbaixoPOF;0.0238095;95;1;1
+Arthur 4 pesos;RendimentoRealMedio;0.0238095;95;0.5;1
+Arthur 4 pesos;MassaRendaHabTodosTrab_noPIB;0.0238095;95;1;3
+Arthur 4 pesos;TxSubocupadasJornadaAcima44h;0.0238095;95;1;1
+Arthur 4 pesos;Gini_rendahabTodosTrabalhos;0.0238095;95;1;1
+Arthur 4 pesos;RendimentoRealMedio_SexoCor;0.0238095;95;1;1
+Arthur 4 pesos;PostosDirecao_MulheresNegras;0.0238095;95;1;1
+Arthur 4 pesos;GrevesPropositivas;0.0238095;50;1;1
+Arthur 4 pesos;ConfiancaSindicatos;0.0238095;114;0.5;1
+Arthur 4 pesos;AcidentesTrabalho_ponderadoSegurada;0.0238095;50;1;1
+Arthur 4 pesos;AfastamentoRemunerado;0.0238095;30;0.5;1
+Arthur 4 pesos;ReajustesAcimaINPC_MM;0.0238095;50;1;1
+Arthur 4 pesos;Admitidos_ContratosAtipicos_MM;0.0238095;50;1;1
+Arthur 4 pesos;SalarioMinimoReal_MM;0.0238095;50;1;3
+Arthur 4 pesos;Palma90_40_Hora_TrabPrinc;1;1;1;1
+Arthur 4 pesos;TxJornadaAcima44h;1;1;1;1
+Arthur reduzido;TxCompostaSubutilizacao;0.3333333;0.3333333;0.3333333;0.3333333
+Arthur reduzido;PrevidenciaTodosTrab;0.3333333;0.3333333;0.3333333;0.3333333
+Arthur reduzido;CarteiraTrabAssalariados;0;0;0;0
+Arthur reduzido;AcessoSeguroDesempregoAssal;0;0;0;0
+Arthur reduzido;PropoRendaApposentadoriaAcima65anos;0;0;0;0
+Arthur reduzido;TxOcupadosRendaAbaixoPOF;0.066666;0.066666;0.066666;0.066666
+Arthur reduzido;RendimentoRealMedio;0;0;0;0
+Arthur reduzido;MassaRendaHabTodosTrab_noPIB;0;0;0;0
+Arthur reduzido;TxSubocupadasJornadaAcima44h;0;0;0;0
+Arthur reduzido;Gini_rendahabTodosTrabalhos;0.066666;0.066666;0.066666;0.066666
+Arthur reduzido;RendimentoRealMedio_SexoCor;0;0;0;0
+Arthur reduzido;PostosDirecao_MulheresNegras;0.066666;0.066666;0.066666;0.066666
+Arthur reduzido;GrevesPropositivas;0;0;0;0
+Arthur reduzido;ConfiancaSindicatos;0;0;0;0
+Arthur reduzido;AcidentesTrabalho_ponderadoSegurada;0.066666;0.066666;0.066666;0.066666
+Arthur reduzido;AfastamentoRemunerado;0;0;0;0
+Arthur reduzido;ReajustesAcimaINPC_MM;0.066666;0.066666;0.066666;0.066666
+Arthur reduzido;Admitidos_ContratosAtipicos_MM;0;0;0;0
+Arthur reduzido;SalarioMinimoReal_MM;0;0;0;0
+Arthur reduzido;Palma90_40_Hora_TrabPrinc;1;1;1;1
+Arthur reduzido;TxJornadaAcima44h;1;1;1;1
